@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>温暖的拥抱 · 宣传封面预览</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      background-color: #1e1e24;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
+      padding: 20px;
+    }
+    .poster-container {
+      width: 1280px;
+      height: 640px;
+      border-radius: 24px;
+      overflow: hidden;
+      position: relative;
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.45);
+      background: linear-gradient(135deg, #f7f9fc 0%, #eef3f9 100%);
+      display: flex;
+    }
+
+    /* 跨性别旗帜背景柔光 */
+    .trans-flag-glow {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      opacity: 0.85;
+      background: linear-gradient(
+        180deg,
+        rgba(91, 206, 250, 0.16) 0%,
+        rgba(91, 206, 250, 0.16) 20%,
+        rgba(245, 169, 184, 0.18) 20%,
+        rgba(245, 169, 184, 0.18) 40%,
+        rgba(255, 255, 255, 0.4) 40%,
+        rgba(255, 255, 255, 0.4) 60%,
+        rgba(245, 169, 184, 0.18) 60%,
+        rgba(245, 169, 184, 0.18) 80%,
+        rgba(91, 206, 250, 0.16) 80%,
+        rgba(91, 206, 250, 0.16) 100%
+      );
+    }
+
+    /* 左侧文字与标语区 */
+    .left-section {
+      flex: 1.25;
+      padding: 64px 50px 60px 72px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      z-index: 2;
+    }
+
+    .badge-bar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .flag-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 16px;
+      border-radius: 999px;
+      background: white;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+      font-size: 13px;
+      font-weight: 600;
+      color: #555;
+      letter-spacing: 0.5px;
+    }
+
+    .flag-dots {
+      display: flex;
+      gap: 3px;
+    }
+    .flag-dot {
+      width: 7px;
+      height: 14px;
+      border-radius: 3px;
+    }
+    .dot-blue { background: #5BCEFA; }
+    .dot-pink { background: #F5A9B8; }
+    .dot-white { background: #E0E0E0; }
+
+    .tag-open {
+      font-size: 13px;
+      color: #7b889b;
+      font-weight: 500;
+    }
+
+    .title-group {
+      margin-top: 20px;
+    }
+
+    .main-title {
+      font-size: 44px;
+      font-weight: 800;
+      line-height: 1.25;
+      color: #24292f;
+      letter-spacing: -0.5px;
+    }
+
+    .title-gradient {
+      background: linear-gradient(120deg, #3aa7db 0%, #d86989 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .sub-title {
+      font-size: 20px;
+      font-weight: 500;
+      color: #57606a;
+      margin-top: 14px;
+      line-height: 1.5;
+    }
+
+    .features-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 28px;
+    }
+
+    .feature-chip {
+      padding: 7px 15px;
+      background: rgba(255, 255, 255, 0.85);
+      backdrop-filter: blur(8px);
+      border: 1px solid rgba(220, 226, 235, 0.8);
+      border-radius: 10px;
+      font-size: 13.5px;
+      color: #424a53;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .feature-chip span.bullet {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #F5A9B8;
+    }
+
+    .quote-footer {
+      font-size: 14px;
+      color: #8c959f;
+      font-style: italic;
+      border-left: 3px solid #F5A9B8;
+      padding-left: 14px;
+      line-height: 1.6;
+    }
+
+    /* 右侧插画与视觉区 */
+    .right-section {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      z-index: 2;
+      padding-right: 40px;
+    }
+
+    .illustration-wrapper {
+      position: relative;
+      width: 480px;
+      height: 480px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .sun-halo {
+      position: absolute;
+      width: 380px;
+      height: 380px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(245, 169, 184, 0.35) 0%, rgba(91, 206, 250, 0.25) 50%, rgba(255, 255, 255, 0) 75%);
+      filter: blur(20px);
+      z-index: 1;
+    }
+
+    svg.cats-art {
+      position: relative;
+      z-index: 2;
+      filter: drop-shadow(0 15px 25px rgba(216, 105, 137, 0.18));
+      transition: transform 0.4s ease;
+    }
+    svg.cats-art:hover {
+      transform: scale(1.02);
+    }
+
+    .floating-hearts {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 3;
+    }
+    .heart-icon {
+      position: absolute;
+      fill: #F5A9B8;
+      opacity: 0.8;
+      animation: float 4s ease-in-out infinite alternate;
+    }
+    @keyframes float {
+      0% { transform: translateY(0px) rotate(0deg); }
+      100% { transform: translateY(-10px) rotate(8deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="poster-container">
+    <!-- 跨旗背景辉光 -->
+    <div class="trans-flag-glow"></div>
+
+    <!-- 左侧文字内容 -->
+    <div class="left-section">
+      <div>
+        <div class="badge-bar">
+          <div class="flag-pill">
+            <div class="flag-dots">
+              <div class="flag-dot dot-blue"></div>
+              <div class="flag-dot dot-pink"></div>
+              <div class="flag-dot dot-white"></div>
+              <div class="flag-dot dot-pink"></div>
+              <div class="flag-dot dot-blue"></div>
+            </div>
+            <span>Transfemme Self-Care</span>
+          </div>
+          <span class="tag-open">开源性健康与身体探索指南</span>
+        </div>
+
+        <div class="title-group">
+          <h1 class="main-title">
+            温热的拥抱<br>
+            <span class="title-gradient">未术跨性别女性股间亲密指南</span>
+          </h1>
+          <p class="sub-title">
+            打破单一剧本 · 缓解身体焦虑 · 在温柔中重掌身体的主导权
+          </p>
+        </div>
+
+        <div class="features-list">
+          <div class="feature-chip"><span class="bullet"></span>解剖与内分泌重绘认知</div>
+          <div class="feature-chip"><span class="bullet"></span>告别准备疲劳与视线解离</div>
+          <div class="feature-chip"><span class="bullet"></span>跨直 / T4T / 伴侣实战问答</div>
+          <div class="feature-chip"><span class="bullet"></span>布料阻隔与硅基润滑科学</div>
+        </div>
+      </div>
+
+      <div class="quote-footer">
+        “你的身体不是等待被考核的考卷，而是在爱意中完全有权被温柔对待的领地。”
+      </div>
+    </div>
+
+    <!-- 右侧两只猫咪贴贴插画 -->
+    <div class="right-section">
+      <div class="illustration-wrapper">
+        <div class="sun-halo"></div>
+
+        <!-- 悬浮的小桃心与小星芒 -->
+        <svg class="floating-hearts" viewBox="0 0 480 480">
+          <path class="heart-icon" style="top: 80px; right: 110px; animation-delay: 0s;" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" transform="scale(1.2)"/>
+          <path class="heart-icon" style="top: 130px; left: 80px; fill: #5BCEFA; opacity: 0.6; animation-delay: 1.5s;" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" transform="scale(0.85)"/>
+        </svg>
+
+        <!-- 温暖手绘风：一大一小两只软萌小猫咪互相贴脸摩擦 (Cuddling Cats) -->
+        <svg class="cats-art" width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="catBigGrad" x1="120" y1="120" x2="280" y2="340" gradientUnits="userSpaceOnUse">
+              <stop stop-color="#E8F4FC"/>
+              <stop offset="0.6" stop-color="#CBE6F8"/>
+              <stop offset="1" stop-color="#B2D9F5"/>
+            </linearGradient>
+            <linearGradient id="catSmallGrad" x1="200" y1="150" x2="330" y2="350" gradientUnits="userSpaceOnUse">
+              <stop stop-color="#FFF0F3"/>
+              <stop offset="0.6" stop-color="#FCDAE1"/>
+              <stop offset="1" stop-color="#F8C4CF"/>
+            </linearGradient>
+            <filter id="softShadow" x="80" y="100" width="260" height="260" filterUnits="userSpaceOnUse">
+              <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#8baac4" flood-opacity="0.25"/>
+            </filter>
+          </defs>
+
+          <!-- 毯子/窝底垫 -->
+          <ellipse cx="205" cy="315" rx="145" ry="32" fill="#E6EDF5" opacity="0.7"/>
+
+          <!-- 大猫咪 (稍大一点，淡水青蓝，温柔地环抱着小猫) -->
+          <g id="big-cat">
+            <!-- 尾巴 -->
+            <path d="M100 270 C60 270 45 220 70 195 C85 180 100 200 92 225 C88 238 98 255 115 258 Z" fill="#B2D9F5"/>
+            <!-- 身体 -->
+            <path d="M110 300 C100 240 120 180 170 160 C215 142 245 180 240 240 C238 275 220 310 170 315 C135 318 115 315 110 300 Z" fill="url(#catBigGrad)"/>
+            <!-- 左耳 -->
+            <path d="M135 155 L125 115 C138 122 152 135 156 148 Z" fill="#B2D9F5"/>
+            <path d="M136 150 L130 125 C138 130 146 138 149 146 Z" fill="#F8C4CF"/>
+            <!-- 右耳 -->
+            <path d="M185 142 C192 128 206 115 220 110 L212 148 Z" fill="#B2D9F5"/>
+            <path d="M192 140 C197 130 206 122 214 118 L208 144 Z" fill="#F8C4CF"/>
+            <!-- 闭着眼睛满足的表情 (˘͈ ᵕ ˘͈ ) -->
+            <path d="M152 178 C158 185 168 185 174 178" stroke="#5A7992" stroke-width="3" stroke-linecap="round"/>
+            <path d="M188 175 C194 182 204 182 210 175" stroke="#5A7992" stroke-width="3" stroke-linecap="round"/>
+            <!-- 浅粉小鼻子与嘴巴 -->
+            <path d="M180 186 L184 191 L176 191 Z" fill="#F5A9B8"/>
+            <path d="M180 192 C178 196 172 198 168 196 M180 192 C182 196 188 198 192 196" stroke="#5A7992" stroke-width="2.5" stroke-linecap="round"/>
+            <!-- 脸颊腮红 -->
+            <ellipse cx="148" cy="188" rx="8" ry="5" fill="#F5A9B8" opacity="0.6"/>
+            <!-- 环抱的小肉爪爪 -->
+            <ellipse cx="205" cy="265" rx="18" ry="12" transform="rotate(-15 205 265)" fill="#E8F4FC"/>
+          </g>
+
+          <!-- 小猫咪 (稍小一点，浅柔粉，依偎在大猫胸口，脸颊互相蹭蹭) -->
+          <g id="small-cat">
+            <!-- 身体 -->
+            <path d="M185 305 C180 260 205 205 245 195 C285 185 315 220 310 270 C306 300 285 315 240 315 C210 315 190 315 185 305 Z" fill="url(#catSmallGrad)"/>
+            <!-- 尾巴，缠绕着搭在大猫身上 -->
+            <path d="M295 285 C335 280 345 235 320 220 C305 210 295 230 305 250 C310 260 300 275 285 280 Z" fill="#F8C4CF"/>
+            <!-- 耳朵 -->
+            <path d="M228 185 L225 150 C236 158 245 170 248 180 Z" fill="#F8C4CF"/>
+            <path d="M272 178 C278 165 290 152 302 148 L296 182 Z" fill="#F8C4CF"/>
+            <path d="M278 176 C282 168 290 160 296 156 L292 178 Z" fill="#FFF"/>
+            <!-- 享受贴贴的弯弯眯缝眼 ( ˘͈ ᵕ ˘͈ ) -->
+            <path d="M242 202 C248 208 256 208 262 202" stroke="#8C5C68" stroke-width="3" stroke-linecap="round"/>
+            <path d="M275 198 C281 204 289 204 295 198" stroke="#8C5C68" stroke-width="3" stroke-linecap="round"/>
+            <!-- 小鼻子和小嘴 -->
+            <path d="M268 209 L272 213 L264 213 Z" fill="#E2738E"/>
+            <path d="M268 214 C266 218 261 219 258 217 M268 214 C270 218 275 219 278 217" stroke="#8C5C68" stroke-width="2.5" stroke-linecap="round"/>
+            <!-- 腮红与小胡须光点 -->
+            <ellipse cx="238" cy="210" rx="7" ry="4" fill="#E2738E" opacity="0.5"/>
+            <ellipse cx="298" cy="204" rx="7" ry="4" fill="#E2738E" opacity="0.5"/>
+            <!-- 亲昵搭在大猫胸口的前爪 -->
+            <ellipse cx="218" cy="245" rx="14" ry="10" transform="rotate(25 218 245)" fill="#FFF0F3"/>
+          </g>
+
+          <!-- 脸颊相蹭处的柔和爱心光晕 -->
+          <circle cx="218" cy="188" r="16" fill="#FFF" opacity="0.6" filter="blur(4px)"/>
+          <path d="M218 195 L215 191 C210 186 214 180 218 183 C222 180 226 186 221 191 Z" fill="#F5A9B8"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
