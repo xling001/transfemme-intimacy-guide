@@ -1,4 +1,4 @@
-# 身体探索的另一扇窗：未术跨性别女性股间亲密（Intercrural Sex）指南
+﻿# 温热的拥抱：未术跨性别女性股间亲密指南
 
 > **文档性质**：跨性别性健康与亲密知觉科普指南（Non-explicit, Educational & Harm-reduction Resource）  
 > **面向受众**：未进行性别重置手术（Pre-op / Non-op）的跨性别直女、跨女同（Trans-Sapphic）、酷儿群体及其亲密伴侣  

@@ -1,4 +1,4 @@
-# 身体探索的另一扇窗：未术跨性别女性股间亲密（Intercrural Sex）指南（对话问答版）
+﻿# 温热的拥抱：未术跨性别女性股间亲密指南（对话问答版）
 
 > **文档定位**：跨性别性健康与亲密知觉科普指南（Non-explicit, Educational & Harm-reduction Resource）  
 > **形式特色**：概念阐释 + 论坛真实困扰角色问答（Q&A Dialogues）  
