@@ -65,6 +65,10 @@
   * *Water-Based Lubricants*: Safe with all fabrics and toys, but requires frequent reapplication during prolonged friction.
   * *Precautions*: Avoiding irritating additives (cooling/tingling agents, harsh fragrances, parabens).
 * **STI Harm Reduction**: Acknowledging that while outercourse eliminates internal mucosal penetration risks, skin-to-skin contact can still transmit pathogens (e.g., HPV, HSV, Molluscum contagiosum). Recommending barrier fabrics, regular screenings, and PrEP / HPV vaccination.
+* **Holistic Aftercare, Daily Care & Medical Red Flags**:
+  * *Emotional Aftercare & Grounding*: Combating post-intimacy neurochemical drop (*sub-drop / post-sex blues*) and gender dysphoria rebound through warm blanket wrapping, low-intensity cuddling, hydration, and bilateral verbal affirmations of safety and unconditional acceptance.
+  * *Targeted Hygiene & Skin Barrier Care*: Distinct cleanup protocols tailored to lubricant chemistry (water-based rinsed gently with warm water vs. silicone washed with mild, soap-free gentle cleanser). Applying pure barrier restoratives (medical-grade petrolatum, Provitamin B5 / panthenol, or ceramides) to soothe inner-thigh micro-friction alongside loose, breathable cotton undergarments.
+  * *Clinical Red Flags*: Establishing unambiguous criteria requiring immediate professional medical evaluation (persistent weeping lesions, blistering, burning dysuria / suspected UTI, surgical flap tearing or foul-smelling discharge, and systemic fever).
 
 ### 7. Epilogue: Returning to Bodily Autonomy & Self-Compassion
 * Reinforcing that intimate pleasure is not a test to be graded, but a domain where one has the absolute right to be treated with gentleness, dignity, and love.
