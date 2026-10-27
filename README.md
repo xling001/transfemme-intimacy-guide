@@ -367,21 +367,19 @@
 
 为便于读者查证医学背景及获取专业健康照护指引，特将本文涉及的相关临床指南、性学调查与学术资源列明如下：
 
-1. **临床意见与内分泌照护**：
+1. **《Girl Sex 101》**：
+   - **Moon, A.**: *Girl Sex 101* (Illustrated by kd diamond. Lunatic Ink, 2016).
+   - 《Girl Sex 101》是由美国性教育家埃里森·穆恩（Allison Moon）撰写、艺术家 kd diamond 绘制插画的一本知名酷儿性教育指南。全书采用通俗易懂的图文与公路旅行叙事结构，系统涵盖了伴侣沟通、知情同意、身体解剖、手部与口部技巧、玩具与润滑剂使用以及安全性行为等内容，旨在为女性及爱女性的多元群体提供去羞耻、积极包容且注重愉悦与自主的性学科普。
+   - 该书以反生理本质主义的现代视角，自然地将跨性别女性的身体经验融入全书脉络中，涵盖了女性化激素对敏感带与反应节奏的重塑、未术与术后身体的愉悦探索、身体烦躁（Dysphoria）的沟通与边界协商，并收录了茱莉亚·塞拉诺（Julia Serano）与托比·希尔-迈耶（Tobi Hill-Meyer）等多位跨性别学者的亲历专栏与实践建议。
+2. **临床意见与内分泌照护**：
    - **ACOG (American College of Obstetricians and Gynecologists)**: *Committee Opinion No. 823: Health Care for Transgender and Gender Diverse Individuals* (2021). （阐述了跨性别照护原则及女性化激素治疗对体脂分布、性欲及生理特征影响的个体差异）
    - **WPATH (World Professional Association for Transgender Health)**: *Standards of Care for the Health of Transgender and Gender Diverse People, Version 8 (SOC-8)* (2022).
-2. **性医学与性满意度研究**：
+3. **性医学与性满意度研究**：
    - **European Society for Sexual Medicine (ESSM)**: *Position Statement on Sexual Function and Satisfaction in Transgender Persons* (2020, J Sex Med). （强调跨性别者性功能评估需结合生理、心理与激素的多维考量，指出既有临床证据的局限性）
-3. **经典性学调查**：
+4. **经典性学调查**：
    - **Kinsey, A. C., et al.**: *Sexual Behavior in the Human Male* (1948) & *Sexual Behavior in the Human Female* (1953). （客观记录了非插入式亲密与大腿间接触在人类性行为谱系中的自然发生率）
-4. **润滑剂与性健康自我照护**：
+5. **润滑剂与性健康自我照护**：
    - **World Health Organization (WHO)**: *WHO guideline on self-care interventions for health and well-being* (2022). （阐述了润滑介质在减少摩擦机械损伤及改善亲密体验中的科学使用原则）
-5. **当代酷儿与跨性别包容性性学专著**：
-   - **Moon, A.**: *Girl Sex 101* (2016, Lunatic Ink).
-     - **专著背景**：由性教育家 Allison Moon 撰写、KD Diamond 绘制插画的全美知名酷儿性学指南，被公认为当代女性与酷儿性教育中具有代表性的去生理本质主义范本。
-     - **跨性别核心立场**：全书奠基于“*Not all girls have vulvas, and not all vulvas have girls*（并非所有女孩都拥有外阴，也并非所有外阴都属于女孩）”与“*A girl is a girl is a girl*”的去本质化哲学，赋予跨性别女性天然平等的女性亲密主体地位；
-     - **社群学者深度撰述**：特邀跨性别学者 Julia Serano（《Whipping Girl》作者）探讨如何解构外界客体化与追求“性别肯定欢愉（Gender Euphoria）”，以及教育家 Tobi Hill-Meyer 开设专栏“Tobi's Trans-Mission”系统分享知情同意、身体烦躁应对与调情技巧；
-     - **实践价值**：主张器官命名自决权（Language Autonomy），倡导绘制个性化的“愉悦地图（Pleasure Road Map）”，并将体表研磨、振动共鸣、收纳亲密（Sex while tucked）与传统亲密置于平等的愉悦层级，为跨女性非纳入式探索提供了扎实且温和的理论支持与经验参照。
 
 ---
 
