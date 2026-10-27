@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="./github_social_preview_v10_restored_pure_1280x640.jpg" alt="温热的拥抱：跨性别女性股间亲密与非纳入式经验汇编" width="100%" />
 </p>
 
