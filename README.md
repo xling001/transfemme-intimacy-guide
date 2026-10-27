@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_social_preview_v6_classic.jpg" alt="温热的拥抱：跨性别女性股间亲密与非纳入式经验汇编" width="100%" />
+</p>
+
 # 温热的拥抱：跨性别女性股间亲密与非纳入式经验汇编
 
 > **文档性质**：个人经验驱动的社群讨论与非纳入式亲密经验汇编（Community-sourced, Experience-based Informational Document）  \
