@@ -1,0 +1,27 @@
+# Operating System Artifacts
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Temporary & Cache Files
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+*$py.class

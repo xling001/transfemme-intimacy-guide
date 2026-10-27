@@ -1,0 +1,31 @@
+name: 勘误与排版建议 (Typo & Formatting)
+description: 反馈正文中的错别字、标点异常、失效链接或排版渲染问题
+title: "[勘误]: "
+labels: ["typo", "formatting"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您细心阅读！发现文档中有错别字、标点符号问题或 Markdown 渲染瑕疵，欢迎在此提出。
+  - type: input
+    id: location
+    attributes:
+      label: 出现位置
+      description: 指出出现问题的章节、段落或行号。
+      placeholder: 例如：第三章第二段第 3 行
+    validations:
+      required: true
+  - type: textarea
+    id: original
+    attributes:
+      label: 原文内容
+      description: 引用当前文档中存在问题的文字。
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 建议修正
+      description: 建议修改后的正确表述。
+    validations:
+      required: true

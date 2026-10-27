@@ -1,0 +1,32 @@
+name: 经验交流与内容探讨 (Community Feedback)
+description: 分享个人亲密实践体会、情境补充或对具体章节内容的探讨
+title: "[经验探讨]: "
+labels: ["community-feedback", "discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您愿意与社群分享宝贵的经验与体会！本模板旨在收集多元、真实的实践反馈，帮助丰富指南的平行探索选项。
+  - type: textarea
+    id: context
+    attributes:
+      label: 涉及章节或主题
+      description: 本条反馈主要关联指南中的哪一部分？（如：GAHT感受、体位节奏、润滑选择、T4T沟通等）
+      placeholder: 例如：第四节“伴侣侧卧式”体验反馈 / 第六节高粘度硅基润滑使用建议
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 详细经验或建议
+      description: 请详细描述您的观察、体会或建议补充的内容（请注意保护个人隐私，避免包含可识别个人身份的信息）。
+      placeholder: 请在此输入您的经验与建议...
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 确认与知情
+      options:
+        - label: 我确认本条反馈由我自愿提交，且不包含侵犯他人隐私或违反法律法规的内容。
+          required: true

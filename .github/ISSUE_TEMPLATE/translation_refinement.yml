@@ -1,0 +1,36 @@
+name: English Translation Improvement (英文翻译建议)
+description: Suggest refinements, corrections, or better terminology for README_en.md
+title: "[Translation]: "
+labels: ["translation", "documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the English translation of this guide! Community feedback ensures sensitive somatic and transfeminine terms are represented accurately and respectfully.
+  - type: input
+    id: section
+    attributes:
+      label: Section / Chapter
+      description: Which section of README_en.md are you referencing?
+      placeholder: e.g., Section 2: GAHT & Transfemme Physiology
+    validations:
+      required: true
+  - type: textarea
+    id: current_text
+    attributes:
+      label: Current Phrasing
+      description: The existing text in README_en.md that needs improvement.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_text
+    attributes:
+      label: Suggested Phrasing
+      description: Your recommended translation or terminology.
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale / Cultural Context
+      description: Why is this phrasing more accurate, affirming, or natural?
