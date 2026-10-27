@@ -33,6 +33,7 @@
 * **De-centering the Penetration Script**: Critiquing the conventional default assumption that sex must equal penetrative intercourse. For pre-op, non-op, or post-op transfemmes at various transition milestones, outercourse provides equal intimacy without inducing performance anxiety or genital dysphoria.
 * **Terminology & Anatomy of Intercrural Sex**: Explaining the anatomical basis of thigh-based intimacy, friction dynamics, and why the inner thighs, pelvic junction, and inguinal regions offer rich sensory pathways under hormonal transition.
 * **Non-hierarchical Value**: Affirming that penetrative intimacy, surface grinding, oral intimacy, or gentle emotional touch hold equal dignity and value, combinable or practiced independently according to mutual consent.
+* **Avoiding New Implicit Pressures**: Explicitly recognizing that outercourse is not a universal panacea. While many find deep comfort and pleasure in thigh intimacy, others may feel neutral or experience discomfort from friction or positioning. None of these diverse reactions imply any inadequacy in one's body or identity.
 
 ### 2. Gender-Affirming Hormone Therapy (GAHT) & Transfemme Physiology
 * **Erogenous Reorganization**: How estrogen and anti-androgens gradually transform skin texture (thinning of epidermal layers, heightened tactile receptivity) and redistribute erogenous sensitivity across the whole body (neck, chest, inner thighs, lower abdomen).
@@ -42,6 +43,7 @@
 * **Uncoupling Erection from Pleasure**: Releasing the pressure to achieve or maintain rigid erections, normalizing soft/semi-soft intimacy, and alleviating performance anxiety.
 * **Bypassing Visual & Somatic Triggers**: Techniques for reducing genital dysphoria, such as utilizing fabric barriers (soft underwear, leggings), indirect contact angles, and mindful eye contact or blindfolds.
 * **De-eroticization & Somatic Presence**: Addressing internal "third-person surveillance" (feeling evaluated by a mental camera), releasing the burden of performing sexualized desirability, turning off visual pressures (closing eyes, dimming lights), and returning fully to first-person tactile sensation and gentle self-compassion.
+* **Grounding & Psychological Safety Boundaries**: Clarifying the distinction between internal self-objectification, gender dysphoria, and trauma-induced dissociation. Emphasizing that if acute panic or flashbacks occur, one should immediately pause intimacy and utilize somatic grounding techniques (e.g., feet firmly on the floor, weighted blankets, warm tea) rather than attempting to simply 'push through' by closing one's eyes.
 
 ### 4. Community Lived Experiences: Exploring Transfeminine Masturbation Techniques & Intimate Practices
 * **Self-Exploration Methods**: Safe positioning for solitary thigh/cushion friction, pelvic rocking, pillow placement, and integrating vibration tools without triggering dysphoria.
