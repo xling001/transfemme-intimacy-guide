@@ -1,7 +1,9 @@
-<p align="right">
+﻿<p align="right">
   <strong>简体中文</strong> | <a href="README_en.md">English</a>
 </p>
-![温热的拥抱：跨性别女性股间亲密与非纳入式经验汇编](./github_social_preview_v10_restored_pure_1280x640.jpg){align=center width=100%}
+<p align="center">
+  <img src="./github_social_preview_v10_restored_pure_1280x640.jpg" alt="温热的拥抱：跨性别女性股间亲密与非纳入式经验汇编" width="100%" />
+</p>
 
 # 温热的拥抱：跨性别女性股间亲密与非纳入式经验汇编
 
