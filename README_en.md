@@ -12,9 +12,9 @@
 
 ---
 
-> **Document Classification**: Personal experience-driven community discussion & non-penetrative intimacy synthesis (*Community-sourced, Experience-based Informational Document*)  
-> **Background**: Curated by a transgender woman based on personal exploration, lived experiences, and a systematic synthesis of discussions across international trans community forums (primarily Reddit communities such as r/MtF and r/mypartneristrans).  
-> **Core Purpose & Inclusivity**: To provide anyone who may need it with an affirming, parallel option for bodily intimacy, expanding the imaginative horizons of affection, pleasure, and connection beyond traditional penetration-centric scripts.  
+> **Document Classification**: Personal experience-driven community discussion & non-penetrative intimacy synthesis (*Community-sourced, Experience-based Informational Document*)  \
+> **Background**: Curated by a transgender woman based on personal exploration, lived experiences, and a systematic synthesis of discussions across international trans community forums (primarily Reddit communities such as r/MtF and r/mypartneristrans).  \
+> **Core Purpose & Target Audience**: Rooted in the lived experiences and authentic somatic exploration of transgender women, primarily tailored for pre-op transfemmes and those navigating diverse transition stages, offering a gentle, parallel pathway of bodily intimacy; simultaneously providing a welcoming reference space for anyone seeking to broaden their intimate imagination beyond traditional penetrative scripts.  \
 > **Core Scope**: Grounded in broad **non-penetrative intimacy** (*Outercourse*), with a focused examination of **intercrural intimacy** (*Intercrural Sex*, i.e., thigh sex) in transfeminine somatic practice, psychological pacing, and safety hygiene.
 
 ---
@@ -32,6 +32,7 @@
 ### 1. Expanding Somatic Horizons: Broad Practices of Outercourse & Intercrural Sex
 * **De-centering the Penetration Script**: Critiquing the conventional default assumption that sex must equal penetrative intercourse. For pre-op, non-op, or post-op transfemmes at various transition milestones, outercourse provides equal intimacy without inducing performance anxiety or genital dysphoria.
 * **Terminology & Anatomy of Intercrural Sex**: Explaining the anatomical basis of thigh-based intimacy, friction dynamics, and why the inner thighs, pelvic junction, and inguinal regions offer rich sensory pathways under hormonal transition.
+* **Non-hierarchical Value**: Affirming that penetrative intimacy, surface grinding, oral intimacy, or gentle emotional touch hold equal dignity and value, combinable or practiced independently according to mutual consent.
 
 ### 2. Gender-Affirming Hormone Therapy (GAHT) & Transfemme Physiology
 * **Erogenous Reorganization**: How estrogen and anti-androgens gradually transform skin texture (thinning of epidermal layers, heightened tactile receptivity) and redistribute erogenous sensitivity across the whole body (neck, chest, inner thighs, lower abdomen).
@@ -40,9 +41,9 @@
 ### 3. Psychological Framing & Easing Dysphoria: Non-Penetrative Choices
 * **Uncoupling Erection from Pleasure**: Releasing the pressure to achieve or maintain rigid erections, normalizing soft/semi-soft intimacy, and alleviating performance anxiety.
 * **Bypassing Visual & Somatic Triggers**: Techniques for reducing genital dysphoria, such as utilizing fabric barriers (soft underwear, leggings), indirect contact angles, and mindful eye contact or blindfolds.
-* **Creating a Low-Pressure Atmosphere**: Prioritizing mutual emotional safety, gentle pacing, and removing goal-oriented endpoints (e.g., orgasm is welcomed but never mandatory).
+* **De-eroticization & Somatic Presence**: Addressing internal "third-person surveillance" (feeling evaluated by a mental camera), releasing the burden of performing sexualized desirability, turning off visual pressures (closing eyes, dimming lights), and returning fully to first-person tactile sensation and gentle self-compassion.
 
-### 4. Community Lived Experiences: Solitary Exploration & Partnered Techniques
+### 4. Community Lived Experiences: Exploring Transfeminine Masturbation Techniques & Intimate Practices
 * **Self-Exploration Methods**: Safe positioning for solitary thigh/cushion friction, pelvic rocking, pillow placement, and integrating vibration tools without triggering dysphoria.
 * **Partnered Positioning & Rhythm**:
   * *Face-to-Face Cuddling / Scissors Alignment*: Fostering deep eye contact, mutual kissing, and gentle pelvic synchronization.
@@ -50,7 +51,7 @@
   * *Guiding Friction & Rhythm*: Emphasizing rhythmic cadence, pelvic tilt adjustments, and non-verbal consent cues.
 
 ### 5. Diverse Partnership Dynamics & Bilateral Communication
-* **T4T (Trans-for-Trans) Partnerships**: Unique mutual empathy regarding shared or complementary dysphoria triggers, shared hormonal understanding, and intuitive boundary respect.
+* **T4T (Trans-for-Trans) Partnerships**: Unique mutual empathy regarding shared or complementary dysphoria triggers, shared hormonal understanding, and intuitive boundary respect. Affirming that clothes do not need to come off to share profound intimacy.
 * **Cis-Trans Relationships**: Navigating differences in anatomical expectations, educational pacing, and dismantling cisnormative assumptions with patient, shame-free communication.
 * **Verbal & Non-Verbal Check-ins**: Establishing color-coded check-in systems (Green / Yellow / Red), safe words, and post-intimacy grounding rituals (*aftercare*).
 
