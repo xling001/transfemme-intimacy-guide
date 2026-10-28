@@ -247,7 +247,9 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. In *Girl
 Dismantling the myth that "penetration equals masculinity." Male arousal is highly responsive to vocal cues, warmth, and muscular snugness. Reframing sex as a shared sensory playground eliminates performance anxiety for both partners.
 
 ### 2. Trans-Sapphic & T4T (Trans-for-Trans) Partnerships
-Shared transgender experience does not guarantee identical dysphoria boundaries. Transparent communication remains crucial.
+
+- **Decentering Phallocentrism**: In sapphic and queer partner dynamics, outercourse and intercrural intimacy are natural extensions of tribadism and whole-body touch, dismantling linear scripts fixated on penetration or ejaculation;
+- **Realities of T4T Relationships**: Shared transgender background does not guarantee identical dysphoria boundaries or HRT milestones. Active boundary communication remains essential—never assume a partner automatically knows where your comfort line lies.
 
 ### 3. Practical Tool: The "Traffic Light" Body Boundary List
 
