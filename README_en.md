@@ -13,9 +13,12 @@
 
 ---
 
-> **Document Classification**: Personal experience-driven community discussion & non-penetrative intimacy synthesis (*Community-sourced, Experience-based Informational Document*)  \
-> **Background**: Curated by a transgender woman based on personal exploration, lived experiences, and a systematic synthesis of discussions across international trans community forums (primarily Reddit communities such as r/MtF and r/mypartneristrans), integrated with modern gender-inclusive sex education literature (such as Allison Moon's *Girl Sex 101*) and clinical sexological references.  \
-> **Core Purpose & Diverse Audience Spectrum**: Rooted in the lived experiences and authentic somatic exploration of transfeminine people, welcoming individuals across all transition paths—whether you are **non-op (choosing not to undergo genital surgery)**, **pre-op (preparing for or awaiting surgery)**, or **post-op (having completed gender-affirming surgery)**; and whether or not you are on Gender-Affirming Hormone Therapy (GAHT/HRT). The right to intimacy, pleasure, and womanhood is self-sufficient and does not hinge on any specific medical procedure. Simultaneously, it offers a welcoming, tender reference space for anyone seeking to dismantle linear scripts and expand their intimate horizons.  \
+> **Document Classification**: Personal experience-driven community discussion & non-penetrative intimacy synthesis (*Community-sourced, Experience-based Informational Document*)
+>
+> **Background**: Curated by a transgender woman based on personal exploration, lived experiences, and a systematic synthesis of discussions across international trans community forums (primarily Reddit communities such as r/MtF and r/mypartneristrans), integrated with modern gender-inclusive sex education literature (such as Allison Moon's *Girl Sex 101*) and clinical sexological references.
+>
+> **Core Purpose & Diverse Audience Spectrum**: Rooted in the lived experiences and authentic somatic exploration of transfeminine people, welcoming individuals across all transition paths—whether you are **non-op (choosing not to undergo genital surgery)**, **pre-op (preparing for or awaiting surgery)**, or **post-op (having completed gender-affirming surgery)**; and whether or not you are on Gender-Affirming Hormone Therapy (GAHT/HRT). The right to intimacy, pleasure, and womanhood is self-sufficient and does not hinge on any specific medical procedure. Simultaneously, it offers a welcoming, tender reference space for anyone seeking to dismantle linear scripts and expand their intimate horizons.
+>
 > **Core Scope**: Grounded in broad **non-penetrative intimacy** (*Outercourse*), encompassing full-body touch, mindful sensory awareness, self-pleasure techniques, and toy resonance; while giving dedicated, deep anatomical, psychological, and harm-reduction focus to **intercrural intimacy** (*Intercrural Sex*, i.e., thigh sex) due to its high discussion prominence and uniquely enveloping comfort in community practice.
 >
 > **Important Disclaimers & Limitations**:
@@ -69,7 +72,8 @@ Outercourse is by no means an inferior "substitute" or compromise; it has always
 
 ### 4. Core Stance: Non-Hierarchical Value & Bodily Autonomy
 
-Internal penetration, surface friction, oral sex, and tender affection are completely equal in dignity and erotic worth. They can stand alone as complete intimate encounters or blend seamlessly. Intimacy has no mandatory linear script. Many transfeminine people find profound comfort in thigh friction; others find it physically unstimulating or positionally awkward. All bodily responses are completely valid.
+- **Grounded in Transfeminine Experience, Offering Exploratory Pathways**: The experiences compiled here are rooted in transfeminine somatic exploration. They do not seek to establish a new mandatory standard, nor do they imply that intercrural intimacy is an automatic panacea for everyone. In community reality, **many find profound comfort and warmth in thigh intimacy; others feel neutral, or experience discomfort from friction, warmth, or posture—all of these reactions are completely authentic and normal**. If you try it and feel it is not for you, you can freely set it aside and explore other avenues.
+- **De-Hierarchical Value**: Internal penetration, surface friction, oral sex, and tender affection are completely equal in dignity and erotic worth. **They can stand alone as complete intimate encounters or blend seamlessly; intimacy has no mandatory linear script, and the core always rests on mutual consent and boundary attunement.**
 
 ---
 
@@ -82,9 +86,9 @@ Whether or not a transfeminine person undergoes Gender-Affirming Hormone Therapy
 External genitalia originate from shared embryonic tissue and share identical innervation from the **Pudendal Nerve**:
 
 - **Homological Mapping**:
-  - Genital tubercle $\rightarrow$ Glans clitoris / Glans penis;
-  - Urogenital folds $\rightarrow$ Labia minora / Ventral penile skin & corpus spongiosum;
-  - Labioscrotal swellings $\rightarrow$ Labia majora / Scrotum;
+  - Genital tubercle → Glans clitoris / Glans penis;
+  - Urogenital folds → Labia minora / Ventral penile skin & corpus spongiosum;
+  - Labioscrotal swellings → Labia majora / Scrotum;
   - Perineal raphe & scrotal seam share the exact embryonic closure line.
 - **Tactile Nerve Retention**:
   Branches of the pudendal nerve (dorsal nerve, perineal nerve, and inferior rectal nerve) form a dense network across the perineal body and scrotal seam.
@@ -103,12 +107,33 @@ External genitalia originate from shared embryonic tissue and share identical in
 - Under GAHT, breast development (budding, glandular expansion, and fat deposition) establishes a potent erogenous center away from genital triggers.
 - In side-lying spooning, a partner’s free hands can caress the chest and neck while thighs glide in unison, creating multilayered full-body resonance.
 
+### 4. Generalization of Erogenous Mapping: From Localized Stimulation to Full-Body Resonance
+
+In community discussions, many describe intimate experiences under feminine endocrinology (or through mindful relaxation) as having greater "full-body diffusion":
+- Shifting from localized organ tension to shared awakening across the neck, collarbones, chest, lower back, and inner thighs;
+- Intertwining warmth, breathing, and gentle touch into enduring emotional and somatic resonance.
+
+**The Coexistence and Autonomous Choice of Pleasure Modes**:
+
+As many transfeminine individuals recognize through personal exploration: **The focused impulse of localized stimulation and the gentle roaming of diffuse sensation are natural, coexisting potentials within the human body; they are not bound to a single gender or anatomy. Somatic pleasure is shaped by physiological, psychological, and relational contexts, rather than hormones alone.** Endocrine changes do not invent a rigid, singular model.
+
+Whatever your physical circumstances or gender journey, you possess the full agency to explore, combine, and cultivate the modes that resonate most authentically with your comfort and pacing.
+
 ---
 
 > ### 💬 Scenario 1: Early GAHT Shifts in Libido & Bodily Alienation
 >
-> **[Common Dilemma]**: *"Six months on HRT with suppressed testosterone, my spontaneous erections vanished. Old masturbation techniques feel painful or completely unappealing. Am I permanently broken?"*  
-> **[Community Wisdom]**: Testosterone reduction diminishes urgent localized impulses and thins epidermal skin, making aggressive stroking harsh. Shifting toward slow, full-body warmth (back cuddling, chest caressing, gentle thigh gliding) provides comforting envelopment while the nervous system adapts to its new endocrine rhythm. Climax is not a mandatory goal.
+> **【Typical Dilemma & Context】**
+>
+> *“Six months on HRT with suppressed testosterone, my spontaneous erections vanished. Old masturbation techniques feel painful or completely unappealing. Am I permanently broken?”*
+>
+> **【Community Discussion & Synthesis】**
+>
+> Testosterone reduction diminishes urgent localized impulses and thins epidermal skin, making aggressive stroking harsh. Shifting toward slow, full-body warmth (back cuddling, chest caressing, gentle thigh gliding) provides comforting envelopment while the nervous system adapts to its new endocrine rhythm.
+>
+> **【Facilitator Advice & Safety Memo】**
+>
+> Release the pressure to achieve an urgent climax. Allow the body time to reconnect under its new rhythm. If accompanied by persistent severe depression or physical lethargy, consult an affirming endocrinologist or therapist.
 
 ---
 
@@ -133,9 +158,9 @@ In psychology and sexology, this is recognized as **Self-Objectification** and *
 Remember: Regardless of past wounds or external judgments, **within your own bed, your body does not need to submit an exam to anyone**. Your body is a breathing, feeling sanctuary deserving of tender care.
 
 **Allowing Sensations to Flow Freely**:
-- **Embracing Clumsiness**: It is entirely okay to be quiet, clumsy, paused, or resting your head in a pillow. Let go of people-pleasing and embrace the unpolished present.
-- **Dimming Visual Critique**: Dim the lights or close your eyes. Closing your eyes is not avoidance; it is cutting off visual self-surveillance to bring attention back to skin contact and warmth.
-- **Feeling Reciprocal Love**: Release the obsession with perfection. Open your eyes to see your partner’s tender regard. Intimacy is laying down defense in mutual warmth.
+- **Embracing Clumsiness**: It is entirely okay to be quiet, clumsy, paused, or resting your head in a pillow. Let go of people-pleasing and embrace the unpolished present;
+- **Dimming Visual Critique**: Dim the lights or close your eyes. Closing your eyes is not avoidance; it is cutting off visual self-surveillance to bring attention back to skin contact and warmth;
+- **Feeling Reciprocal Love**: Release the obsession with perfection. Open your eyes to see your partner’s tender regard. Intimacy is laying down defense in mutual warmth;
 - **Affirming Anatomical Language (Community Note)**: In English-speaking trans communities (as advocated by scholars like Julia Serano), many partners collaboratively choose affirming terms for their bodies (such as "clit," "girl-dick," or neutral terms). Treating anatomy labels as *descriptive rather than prescriptive* helps eliminate misgendering discomfort.
 
 > 💡 **Somatic Safety Memo**: Self-surveillance, dysphoria, and trauma-induced dissociation have distinct mechanisms. If acute dissociation or panic occurs, **closing one's eyes or pushing through is insufficient**. Pause intimacy immediately and use somatic grounding techniques (feet planted on the floor, wrapped in a weighted blanket, holding a warm mug of water, or utilizing the **5-4-3-2-1 sensory grounding technique**: noticing 5 visible objects, 4 touchable textures, 3 ambient sounds, 2 scents, and taking 1 sip of warm water). Seek professional psychological support if needed.
@@ -144,8 +169,17 @@ Remember: Regardless of past wounds or external judgments, **within your own bed
 
 > ### 💬 Scenario 2: Trans-Straight Women & Partner Boundary Negotiation
 >
-> **[Common Dilemma]**: *"I love my cis boyfriend, but anal penetration causes me severe physical pain. Seeing his frustration makes me feel guilty and inadequate as a woman. Will thigh sex feel like an unfulfilling cop-out to him?"*  
-> **[Community Wisdom]**: Partners in support groups often clarify that what they dread most is hurting the person they love. High-grade lubricant between warm, firm thighs provides generous snug friction and heat. Removing the fear of causing injury allows both partners to relax into genuine emotional intimacy. True intimacy is the intersection of mutual comfort, not unilateral sacrifice.
+> **【Typical Dilemma & Context】**
+>
+> *“I love my cis boyfriend, but anal penetration causes me severe physical pain. Seeing his frustration makes me feel guilty and inadequate as a woman. Will thigh sex feel like an unfulfilling cop-out to him?”*
+>
+> **【Community Discussion & Synthesis】**
+>
+> Partners in support groups often clarify that what they dread most is hurting the person they love. High-grade lubricant between warm, firm thighs provides generous snug friction and heat. Removing the fear of causing injury allows both partners to relax into genuine emotional intimacy.
+>
+> **【Facilitator Advice & Safety Memo】**
+>
+> Enduring pain to please a partner risks retraumatization. Communicate honestly: *"I deeply want to be close with you, but my body needs an intimate language that feels safe and painless."* True intimacy is the intersection of mutual comfort, not unilateral sacrifice.
 
 ---
 
@@ -153,19 +187,19 @@ Remember: Regardless of past wounds or external judgments, **within your own bed
 
 ### 1. Side-Lying Spooning Position
 
-- **Execution**: The receiver lies on their side facing away with legs softly bent; the partner cuddles from behind, sliding comfortably between the thighs.
+- **Execution**: The receiver lies on their side facing away with legs softly bent; the partner cuddles from behind, sliding comfortably between the thighs;
 - **Strengths**: Broad back contact calms sympathetic arousal, partners' hands remain free to caress the chest or face, and visual genital triggers are eliminated.
 
 ### 2. Fabric Barriers & Tucked Exploration (Sex While Tucked)
 
-- Retaining seamless, soft modal or silk panties maintains compression and visual comfort.
+- Retaining seamless, soft modal or silk panties maintains compression and visual comfort;
 - **Safety Precaution (Avoiding Inguinal Strain)**:
-  - **Never use high-tensile medical tape (tape tucking) during active friction intimacy**.
+  - **Never use high-tensile medical tape (tape tucking) during active friction intimacy**;
   - Prioritize relaxed, elastic underwear tucking. **Avoid pushing the testicles deeply into the inguinal canals when undergoing active body-to-body impact or compression**. Repeated high-pressure displacement can dilate the superficial inguinal ring, increasing the risk of **inguinal hernias** and localized strain.
 
 ### 3. Wand Vibrators & Mutual Grinding
 
-- **Pillow Pressing**: Lying prone over a soft pillow with an additional flat pillow under the pelvis/lower abdomen reduces lumbar strain and anchors the perineum firmly against the wide head of a Magic Wand.
+- **Pillow Pressing**: Lying prone over a soft pillow with an additional flat pillow under the pelvis/lower abdomen reduces lumbar strain and anchors the perineum firmly against the wide head of a Magic Wand;
 - **Dual Wand Grinding**: Partners sit face-to-face in a lap-hug or side cuddle, placing a wide-head wand between their contacting thighs and bits, sharing gentle mechanical resonance.
 
 ### 4. Syntribation (Cushion & Plushie Grinding)
@@ -174,25 +208,36 @@ Rocking the pelvic floor against soft plushies or folded blankets allows hands-f
 
 ### 5. Gentle Touch & Hand Techniques (Insights from *Girl Sex 101*)
 
-Under hormonal changes or deep relaxation, spontaneous rigidity shifts. Harsh linear stroking often causes friction discomfort or dysphoria. In *Girl Sex 101*, Allison Moon and trans contributors share gentle, somatic-attuned experiences:
+Under hormonal changes or deep relaxation, spontaneous rigidity shifts. In *Girl Sex 101*, Allison Moon and trans contributors share gentle, non-prescriptive somatic experiences:
 
-- **The Softball Fold**: If anatomy is soft or semi-erect, fold it gently upward or along the pubic crease. This creates a compact, cushioned contour, shifting touch away from vertical stroking toward circular, flat-palmed clitoral massage.
-- **The Bike Seat (Perineal Blunt Pressure)**: Homologous erectile roots extend back into the perineum. Pressing the heel of the hand, a fist, or a knee firmly against the perineum (like a bicycle seat) triggers deep, diffuse pelvic resonance.
+- **The Softball Fold**: If anatomy is soft or semi-erect, fold it gently upward or along the pubic crease. This creates a compact, cushioned contour, shifting touch away from vertical stroking toward circular, flat-palmed clitoral massage;
+- **The Bike Seat (Perineal Blunt Pressure)**: Homologous erectile roots extend back into the perineum. Pressing the heel of the hand, a fist, or a knee firmly against the perineum (like a bicycle seat) triggers deep, diffuse pelvic resonance;
 - **Lateral Scissors**: Using the index and middle fingers in a gentle scissor-hold around the base, sliding laterally with ample lubricant.
+
+---
+
+> ### 💬 Scenario 3: Partner Perspectives, Operational Nuances & Safety
+>
+> Guidance for partners on providing generous lubrication, pacing movements gently, and letting the transfeminine partner lead the cadence.
+
+---
 
 ### 6. Post-Operative Somatic Exploration & Dilation Fatigue
 
 > [!WARNING]
-> **Early Post-Op Healing Contraindications**: During the initial healing window (months following vaginoplasty), surgical flaps, suture lines, and neovaginal tissue are exceptionally fragile. **Any tight thigh squeezing, forceful adductor clamping, or perineal friction is strictly forbidden until full clinical clearance is granted by your surgical team**, due to acute risks of wound dehiscence and hematoma.
+> **Early Post-Op Healing Contraindications**:
+>
+> During the initial healing window (months following vaginoplasty), surgical flaps, suture lines, and neovaginal tissue are exceptionally fragile. **Any tight thigh squeezing, forceful adductor clamping, or perineal friction is strictly forbidden until full clinical clearance is granted by your surgical team**, due to acute risks of wound dehiscence and hematoma.
 
-- After complete healing, outercourse remains a self-sufficient, dignified option.
-- During long-term **Dilation Fatigue**, gentle thigh and vulvar touch offers a sanctuary to connect without placing mechanical strain on the neovagina.
+- After complete healing, outercourse remains a self-sufficient, dignified option;
+- During long-term **Dilation Fatigue**, gentle thigh and vulvar touch offers a sanctuary to connect without placing mechanical strain on the neovagina;
 - *Red Flags*: Any active bleeding, tearing, foul discharge, or severe pain during contact requires immediate specialist evaluation.
 
 ---
 
-> ### 💬 Scenario 3 & 4: Partner Communication & Post-Op Dilation Fatigue
-> Detailed community guidance on partner pacing, ample lubrication, and navigating post-op dilation fatigue without shame or self-blame.
+> ### 💬 Scenario 4: Post-Op Dilation Fatigue & Emotional Vulnerability
+>
+> Normalizing dilation fatigue as a natural psychological response to repetitive physical discomfort, reassuring that taking a gentle pause with outercourse is a loving, valid sanctuary.
 
 ---
 
@@ -216,26 +261,40 @@ Establishing a neutral, agreed-upon framework prior to intimacy significantly lo
 
 ---
 
+> ### 💬 Scenario 5: Navigating Bidirectional Body Dysphoria in T4T Relationships
+>
+> Practicing clothed intimacy, bedsheet cuddles, and honoring verbal boundaries before undressing.
+
+---
+
 ## VI. Physiological Safety, Advanced Infection Prevention & Skin Care (Critical)
 
 ### 1. STI Harm Reduction & Scientific Prevention Advice
 
 > [!WARNING]
-> **Outercourse does not mean zero STI risk!** Skin-to-skin contact, fluid transfer, and micro-abrasions can transmit HPV, HSV (Herpes), Syphilis, Molluscum Contagiosum, and Pubic Lice.
+> **Outercourse does not mean zero STI risk!**
+>
+> Skin-to-skin contact, fluid transfer, and micro-abrasions can transmit:
+> - **HPV & HSV (Herpes)**: Transmitted through intimate epidermal/mucosal contact even during asymptomatic viral shedding;
+> - **Syphilis**: Transmitted via direct contact with active lesions (chancres/mucous patches);
+> - **HIV & Bloodborne Pathogens**: Negligible risk on intact skin, but requires caution if epidermal abrasions or fluid-to-mucosa contact occurs;
+> - **Molluscum Contagiosum & Pubic Lice**: Readily spread through close skin contact and shared fabrics.
+
+#### Scientific Prevention & Public Health Information
 
 > ⚠️ **Important Notice**: This document provides educational information and synthesizes international public health updates; it does not constitute clinical medical prescriptions or treatment protocols. Readers are strongly advised to consult official guidelines directly or seek individualized guidance from qualified, trans-affirming clinicians.
 
-- **HPV Vaccination**: Because intimate skin-to-skin contact can transmit HPV, public health agencies (e.g., WHO, CDC) universally recommend that eligible individuals receive the 9-valent HPV vaccine, offering substantial protective benefits regardless of gender or surgical status.
-- **Post-Exposure Prophylaxis Trends (e.g., Doxy-PEP)**: Following clinical guidance updates from public health bodies like the US CDC (2024), post-exposure preventive medication (Doxy-PEP) is recognized for reducing bacterial STI risks (syphilis, chlamydia) among specific populations. Readers with relevant risk concerns are advised to consult CDC guidelines or infectious disease specialists directly.
-- **Clarification on PrEP & GAHT Interactions**: Community fears often suggest that HIV prevention medications (PrEP/PEP) reduce estrogen efficacy. Clinical trials demonstrate no significant adverse pharmacological interference between standard PrEP and gender-affirming hormone therapy. Necessary prevention should not be avoided due to hormone concerns. Always consult a physician for individualized regimens.
+- **HPV Vaccination**: Because intimate skin-to-skin contact can transmit HPV, public health agencies (e.g., WHO, CDC) universally recommend that eligible individuals receive the 9-valent HPV vaccine, offering substantial protective benefits regardless of gender or surgical status;
+- **Post-Exposure Prophylaxis Trends (e.g., Doxy-PEP)**: Following clinical guidance updates from public health bodies like the US CDC (2024), post-exposure preventive strategies are recognized for reducing bacterial STI risks among specific populations. Readers with relevant risk concerns are advised to consult CDC guidelines or infectious disease specialists directly;
+- **Clarification on PrEP & GAHT Interactions**: Clinical trials demonstrate no significant adverse pharmacological interference between standard PrEP and gender-affirming hormone therapy. Necessary prevention should not be avoided due to hormone concerns. Always consult a physician for individualized regimens;
 - **Site-Specific Screening**: During routine sexual health check-ups, communicate actual intimate contact sites with affirming clinicians so that appropriate swab tests can be performed alongside standard urine and blood tests.
 
 ### 2. Epidermal Fragility & Friction Heat (Chafing)
 Estrogen thins the stratum corneum and diminishes sebaceous lubrication. Friction burns (*chafing*) develop rapidly if lubrication dries out. Cease movement immediately upon feeling increased drag or stinging.
 
 ### 3. Lubricant Science: WHO Osmolality Standards & Microecology
-- **WHO Osmolality Benchmark**: Personal lubricants should ideally have an **osmolality below 1,200 mOsm/kg** (physiological level is ~290–380 mOsm/kg). Hyperosmolar lubricants packed with glycerin or propylene glycol draw water out of epithelial cells, causing cellular dehydration and next-day burning pain.
-- **Silicone Lubricants**: Exceptional, long-lasting slip for thigh friction. Compatible with natural latex and polyisoprene condoms; **strictly incompatible with silicone toys**. Never use mineral oil, petrolatum, or cooking oils with latex condoms.
+- **WHO Osmolality Benchmark**: Personal lubricants should ideally have an **osmolality below 1,200 mOsm/kg** (physiological level is ~290–380 mOsm/kg). Hyperosmolar lubricants packed with glycerin or propylene glycol draw water out of epithelial cells, causing cellular dehydration and next-day burning pain;
+- **Silicone Lubricants**: Exceptional, long-lasting slip for thigh friction. Compatible with natural latex and polyisoprene condoms; **strictly incompatible with silicone toys**. Never use mineral oil, petrolatum, or cooking oils with latex condoms;
 - **Neovaginal pH Neutrality**: Neovaginal tissue (skin-graft or colon) lacks lactobacilli-dominated acidic flora; its physiological pH is typically **neutral to mildly acidic (pH 5.0–7.0)**. Avoid aggressive acidic feminine washes.
 
 ### 4. Aftercare & Clinical Red Flags
@@ -243,6 +302,12 @@ Estrogen thins the stratum corneum and diminishes sebaceous lubrication. Frictio
 - Apply pure petrolatum or dexpanthenol (Vitamin B5) ointment to barrier-compromised skin;
 - Practice emotional aftercare with hydration and reassurance against post-sex blues;
 - *Seek medical care immediately* for blistering, yellow crusting, purulent discharge, burning micturition, or swollen inguinal lymph nodes.
+
+---
+
+> ### 💬 Scenario 6: Managing Friction Burns & Recovery
+>
+> Practical aftercare steps: cooling, avoiding hot water/soap irritation, applying petrolatum barrier cream, and monitoring for clinical red flags.
 
 ---
 
@@ -258,7 +323,9 @@ May you always feel empowered to embrace your body and your loved ones on your o
 
 ## VIII. Academic References & Foundational Literature
 
-1. **Moon, Allison**: *Girl Sex 101* (Illustrated by kd diamond; featuring Julia Serano & Tobi Hill-Meyer. Lunatic Ink, 2016).
+1. **Moon, A.: Girl Sex 101** (Illustrated by kd diamond. Lunatic Ink, 2016):
+   - Hailed as a "road trip guide to women's sexuality and intimate relationships," this is a modern sex-positive, queer-friendly, and trans-inclusive sex education classic authored by Allison Moon and illustrated by kd diamond. Breaking away from cisnormative, phallocentric reproductive scripts, it offers graphic and accessible narratives exploring how to build pleasurable, safe, and respectful intimacy with female bodies (both cisgender and transgender).
+   - Grounded in an anti-essentialist perspective, it organically weaves transfeminine somatic realities into the text—covering hormone-induced erogenous reorganization, pre-op and post-op pleasure pathways, dysphoria boundary negotiation, and insightful guest essays from trans scholars including Julia Serano and Tobi Hill-Meyer.
 2. **WPATH**: *Standards of Care for the Health of Transgender and Gender Diverse People, Version 8 (SOC-8)* (2022).
 3. **ACOG**: *Committee Opinion No. 823: Health Care for Transgender and Gender Diverse Individuals* (2021).
 4. **ESSM**: *Position Statement on Sexual Function and Satisfaction in Transgender Persons* (*J Sex Med*, 2020).
