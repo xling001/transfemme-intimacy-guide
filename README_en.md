@@ -34,7 +34,7 @@
 1. [I. Expanding Somatic Horizons: Broad Practices of Outercourse & Body-to-Body Intimacy](#i-expanding-somatic-horizons-broad-practices-of-outercourse--body-to-body-intimacy)
 2. [II. Physiological Foundations, Neural Homology & Sensory Reorganization](#ii-physiological-foundations-neural-homology--sensory-reorganization)
 3. [III. Psychological Framing & Dysphoria Buffering: Easing Self-Surveillance](#iii-psychological-framing--dysphoria-buffering-easing-self-surveillance)
-4. [IV. Community Lived Experiences: Diverse Masturbation, Hand Techniques & Intimate Practices](#iv-community-lived-experiences-diverse-masturbation-hand-techniques--intimate-practices)
+4. [IV. Community Lived Experiences: Exploring Somatic Pleasure, Gentle Masturbation & Intimate Practices](#iv-community-lived-experiences-exploring-somatic-pleasure-gentle-masturbation--intimate-practices)
 5. [V. Diverse Partnership Dynamics, Bilateral Communication & Boundary Maps](#v-diverse-partnership-dynamics-bilateral-communication--boundary-maps)
 6. [VI. Physiological Safety, Advanced Infection Prevention & Skin Care (Critical)](#vi-physiological-safety-advanced-infection-prevention--skin-care-critical)
 7. [VII. Epilogue: Returning to Bodily Autonomy & Self-Compassion](#vii-epilogue-returning-to-bodily-autonomy--self-compassion)
@@ -183,7 +183,15 @@ Remember: Regardless of past wounds or external judgments, **within your own bed
 
 ---
 
-## IV. Community Lived Experiences: Diverse Masturbation, Hand Techniques & Intimate Practices
+## IV. Community Lived Experiences: Exploring Somatic Pleasure, Gentle Masturbation & Intimate Practices
+
+> **Before You Begin: Reclaiming Gentleness for Yourself**
+>
+> Self-pleasure and intimate exploration are, at their core, a gentle conversation of reconciliation and trust with your own body. They are wholly legitimate, self-affirming, and never something to carry shame, post-orgasmic guilt, or self-deprecation over.
+>
+> Whenever possible, curate a cozy, uninterrupted sanctuary for yourself: slip into a warm blanket, dim the lights or keep a soft lamp on, lock the door, and filter out external noise and surveillance. Somatic exploration does not demand mechanical urgency, nor should it ever resemble self-punishing roughness. Treat your body with the patience and tenderness you would offer someone you truly cherish—breathe slowly, and let sensation unfold at its own authentic pace.
+>
+> The practices below are compiled from lived community discussions and modern sex education literature, offering tender pathways for solo self-exploration and partnered intimacy:
 
 ### 1. Side-Lying Spooning Position
 
