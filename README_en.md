@@ -51,6 +51,15 @@
 
 In mainstream reproductive-centric narratives, sex is frequently narrowed down to internal organ penetration (*Intercourse*). This conventional script often imposes multifaceted physical and psychological pressures on transfeminine individuals: non-op and pre-op individuals are often default-pressured into cis-male roles or confined to receptive anal penetration; while post-op individuals face physical limitations during dilation fatigue phases or mucosal recovery.
 
+> 📌 **Terminology & Quick Reference**:
+>
+> - **Intercrural Sex (股间亲密)**: An intimate practice utilizing the natural contact and gentle sliding friction of the inner thighs. Termed from neutral sexology, it describes a mutual, body-warming, and decentralized somatic interaction;
+> - **Non-op / Pre-op / Post-op**: Transfeminine individuals who choose not to undergo genital surgery, those awaiting/preparing for surgery, and those who have completed gender-affirming surgery, respectively;
+> - **GAHT / HRT**: Gender-Affirming Hormone Therapy;
+> - **T4T (Trans for Trans)**: Relationships, love, and intimacy between transgender individuals;
+> - **Side**: A sexual orientation or preference focusing on outer touch, kisses, and manual intimacy rather than internal penetration;
+> - **Tribadism**: Mutual surface grinding between body parts, common in sapphic and queer intimacy.
+
 ### 1. Broad "Outercourse" and Intercrural Sex
 
 In modern sex education and sexual health frameworks, **non-penetrative intimacy** (*Outercourse*) represents a broad, dignified, and self-sufficient domain encompassing all intimate expressions that do not involve inserting organs or hard toys into internal bodily cavities (vagina or rectum). It includes:
@@ -60,16 +69,6 @@ In modern sex education and sexual health frameworks, **non-penetrative intimacy
 - **Intercrural Sex**: Derived from Latin *inter* [between] and *crura* [thighs], utilizing the natural angle and warm tactile friction of the inner thighs for rhythmical sliding and surface contact.
 
 Within transfeminine communities, intercrural sex stands out because of its generous contact surface, warm envelopment, and visual shielding properties, providing an authentic haven for somatic grounding.
-
-> 📌 **Terminology & Vernacular Memo**:
->
-> - **Why "Intercrural Intimacy" (股间亲密)**: In digital media, thigh friction is often commodified under reductive, fetishizing tropes. We deliberately use the anatomical and sexological term *Intercrural Sex* (from Latin *inter crura*, between the thighs) to restore its authentic dignity as a mutual, tender, and decentralized somatic practice;
-> - **Community Acronyms Quick Reference**:
->   - **Non-op / Pre-op / Post-op**: Individuals who choose not to undergo genital surgery, those awaiting or preparing for surgery, and those who have completed gender-affirming surgery, respectively;
->   - **GAHT / HRT**: Gender-Affirming Hormone Therapy, utilizing exogenous estrogens and antiandrogens to align endocrinology;
->   - **T4T (Trans for Trans)**: Romantic, emotional, or sexual relationships between transgender individuals;
->   - **Side**: Individuals who focus on outer touch, kisses, and manual intimacy rather than internal penetration;
->   - **Tribadism**: Mutual body grinding, historically central to sapphic intimacy.
 
 ### 2. Sexological History & Cross-Cultural Context
 
@@ -319,30 +318,30 @@ Genuine intimacy is founded on mutual love and respect, never on unilateral enti
 > - **HIV & Bloodborne Pathogens**: Negligible risk on intact skin, but requires caution if epidermal abrasions or fluid-to-mucosa contact occurs;
 > - **Molluscum Contagiosum & Pubic Lice**: Readily spread through close skin contact and shared fabrics.
 
-#### Scientific Prevention & Public Health Information
+#### Scientific Prevention & Public Health Information (Brief Guide)
 
-> ⚠️ **Important Notice**: This document provides educational information and synthesizes international public health updates; it does not constitute clinical medical prescriptions or treatment protocols. Readers are strongly advised to consult official guidelines directly or seek individualized guidance from qualified, trans-affirming clinicians.
+> ℹ️ **Reading Note**: The following synthesizes general sexual health concepts and public health updates for educational context; it does not constitute clinical medical advice. For personalized vaccination, prophylaxis regimens, or diagnostic monitoring, **readers are encouraged to consult official clinical guidelines or trans-affirming healthcare providers**.
 
-- **HPV Vaccination**: Because intimate skin-to-skin contact can transmit HPV, public health agencies (e.g., WHO, CDC) universally recommend that eligible individuals receive the 9-valent HPV vaccine, offering substantial protective benefits regardless of gender or surgical status;
-- **Scientific Prevention & Medication Awareness**: Standard PrEP/PEP protocols have no significant adverse pharmacological interactions with GAHT; preventative care should never be neglected due to hormone concerns. Regarding bacterial post-exposure prophylaxis (such as Doxy-PEP), due to antibiotic stewardship considerations and differing regional indications, **never self-medicate via unauthorized online purchases**; consult an infectious disease specialist for professional evaluation;
-- **Conception & Pregnancy Considerations**: If an intimate partner has the physiological capacity to produce ova or carry a pregnancy (such as a transmasculine partner or cisgender female partner), even though outercourse does not involve internal ejaculation, active secretions coming into contact with the vulva can theoretically carry a non-zero risk of conception. If pregnancy is not desired, mutually agreed barrier precautions remain essential;
-- **Site-Specific Screening**: During routine sexual health check-ups, communicate actual intimate contact sites with affirming clinicians so that appropriate swab tests can be performed alongside standard urine and blood tests.
+- **HPV Vaccination**: Because intimate skin-to-skin contact can transmit HPV, public health organizations (such as WHO and CDC) universally recommend the 9-valent HPV vaccine for eligible individuals, providing valuable protection across all gender expressions and surgical statuses;
+- **Prophylaxis & Medical Guidance**: Standard HIV PrEP/PEP regimens do not have clinically significant adverse interactions with GAHT; preventative care should not be avoided due to hormone concerns. Regarding bacterial post-exposure prophylaxis (such as Doxy-PEP), given antibiotic stewardship considerations and differing regional indications, it is best evaluated in consultation with an infectious disease specialist or reviewed via official public health guidelines, rather than attempting self-medication without professional oversight;
+- **Conception & Pregnancy Considerations**: If an intimate partner has the capacity to produce ova or carry a pregnancy, active secretions coming into contact with the vulva can theoretically carry a non-zero chance of conception. If pregnancy is not desired, mutually agreed barrier precautions remain recommended;
+- **Site-Specific Screening**: During routine check-ups, sharing actual intimate contact sites with affirming clinicians ensures relevant swab tests are conducted alongside standard screenings.
 
 ### 2. Epidermal Fragility & Friction Heat (Chafing)
 Estrogen thins the stratum corneum and diminishes sebaceous lubrication. Friction burns (*chafing*) develop rapidly if lubrication dries out. Cease movement immediately upon feeling increased drag or stinging.
 
 ### 3. Lubricant Science: WHO Osmolality Standards & Microecology
 - **WHO Osmolality Benchmark**: Personal lubricants should ideally have an **osmolality below 1,200 mOsm/kg** (physiological level is ~290–380 mOsm/kg). Hyperosmolar lubricants packed with glycerin or propylene glycol draw water out of epithelial cells, causing cellular dehydration and next-day burning pain;
-- **Silicone Lubricants**: Exceptional, long-lasting slip for thigh friction. Compatible with natural latex, polyisoprene (PI), and polyurethane condoms; **strictly incompatible with silicone toys**. Never use mineral oil, petrolatum, or cooking oils with latex condoms;
+- **Silicone Lubricants**: Exceptional, long-lasting slip for thigh friction. Compatible with natural latex, polyisoprene (PI), and polyurethane condoms; **incompatible with silicone toys** (causes surface degradation). Avoid mineral oil, petrolatum, or baby oils with latex condoms (causes rapid latex breakdown);
   - *Patch Testing*: Before applying a new lubricant brand to expansive skin, perform a patch test on the inner wrist or upper inner thigh to rule out allergic hypersensitivity or burning reactions;
-  - *Toy Hygiene & Material Safety*: Prioritize medical-grade silicone or non-porous ABS for vibrators. If sharing toys or switching between bodily contact zones, disinfect thoroughly with specialized antibacterial toy cleanser or mild soap, or cover with a fresh barrier condom to prevent cross-contamination;
+  - *Toy Hygiene & Material Safety*: Prioritize medical-grade silicone or non-porous ABS for vibrators. If sharing toys or switching between bodily contact zones, clean thoroughly with specialized antibacterial toy cleanser or mild soap, or cover with a fresh barrier condom to minimize mucosal cross-contact;
 - **Neovaginal pH Neutrality**: Neovaginal tissue (skin-graft or colon) lacks lactobacilli-dominated acidic flora; its physiological pH is typically **neutral to mildly acidic (pH 5.0–7.0)**. Avoid aggressive acidic feminine washes.
 
 ### 4. Aftercare & Clinical Red Flags
 - Cleanse gently with warm water (and mild soap for silicone lube);
 - Apply pure petrolatum or dexpanthenol (Vitamin B5) ointment to barrier-compromised skin;
 - Practice emotional aftercare with hydration and reassurance against post-sex blues;
-- *Seek medical care immediately* for blistering, yellow crusting, purulent discharge, burning micturition, or swollen inguinal lymph nodes.
+- *Clinical Guidance*: Consult a dermatologist if experiencing blistering, yellow crusting, purulent discharge, burning micturition, or swollen inguinal lymph nodes; avoid applying high-potency corticosteroid creams or antibiotics without medical advice.
 
 ---
 
