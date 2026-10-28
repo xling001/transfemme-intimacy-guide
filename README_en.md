@@ -4,6 +4,11 @@
 <p align="center">
   <img src="./github_social_preview_v10_restored_pure_1280x640.jpg" alt="Warm Embrace: A Somatic Exploration & Outercourse Intimacy Guide for Transfeminine People" width="100%" />
 </p>
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0" /></a>
+  <a href="https://github.com/xling001/transfemme-outercourse-notes/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/docs-简体中文-blue.svg" alt="Chinese Documentation" /></a>
+</p>
 
 # Warm Embrace: A Somatic Exploration & Outercourse Intimacy Guide for Transfeminine People
 > ——Exploring Somatic Warmth, Gentle Self-Pleasure, and Intercrural Sex (Thigh Intimacy)
@@ -56,12 +61,22 @@ In modern sex education and sexual health frameworks, **non-penetrative intimacy
 
 Within transfeminine communities, intercrural sex stands out because of its generous contact surface, warm envelopment, and visual shielding properties, providing an authentic haven for somatic grounding.
 
+> 📌 **Terminology & Vernacular Memo**:
+>
+> - **Why "Intercrural Intimacy" (股间亲密)**: In digital media, thigh friction is often commodified under reductive, fetishizing tropes. We deliberately use the anatomical and sexological term *Intercrural Sex* (from Latin *inter crura*, between the thighs) to restore its authentic dignity as a mutual, tender, and decentralized somatic practice;
+> - **Community Acronyms Quick Reference**:
+>   - **Non-op / Pre-op / Post-op**: Individuals who choose not to undergo genital surgery, those awaiting or preparing for surgery, and those who have completed gender-affirming surgery, respectively;
+>   - **GAHT / HRT**: Gender-Affirming Hormone Therapy, utilizing exogenous estrogens and antiandrogens to align endocrinology;
+>   - **T4T (Trans for Trans)**: Romantic, emotional, or sexual relationships between transgender individuals;
+>   - **Side**: Individuals who focus on outer touch, kisses, and manual intimacy rather than internal penetration;
+>   - **Tribadism**: Mutual body grinding, historically central to sapphic intimacy.
+
 ### 2. Sexological History & Cross-Cultural Context
 
 Outercourse is by no means an inferior "substitute" or compromise; it has always occupied a central ecological niche across human sexual history:
 
-- **The Kinsey Reports**: In *Sexual Behavior in the Human Male* (1948) and *Sexual Behavior in the Human Female* (1953), Alfred Kinsey's team systematically documented thigh contact and surface friction across diverse sexual orientations, establishing that non-penetrative intimacy has long been a stable, fulfilling, and safe human intimate practice.
-- **Cross-Cultural Precedents**: From ancient Greek vase paintings depicting intercrural intimacy as a disciplined, affectionate expression, to Eastern traditional cultures emphasizing whole-body skin warmth (*"skin-to-skin intimacy"*), non-reproductive intimate touch has consistently showcased human erotic versatility.
+- **The Kinsey Reports**: In *Sexual Behavior in the Human Male* (1948) and *Sexual Behavior in the Human Female* (1953), Alfred Kinsey's extensive interviews repeatedly documented thigh contact and surface friction across diverse sexual orientations, establishing that non-penetrative touch has long been an organic, fulfilling part of the human erotic spectrum rather than a compromise.
+- **Cross-Cultural Precedents**: From ancient Greek vase depictions featuring mutual intercrural touch, to Eastern traditional philosophies emphasizing whole-body warmth (*"skin-to-skin intimacy"*), non-reproductive intimate touch has consistently showcased human erotic versatility.
 
 ### 3. Diverse Community Practices
 
@@ -97,6 +112,7 @@ External genitalia originate from shared embryonic tissue and share identical in
 
 ### 2. Muscle Control & Pelvic Floor Relaxation
 
+- **Subcutaneous Fat Redistribution**: Feminizing hormone therapy encourages adipose tissue redistribution toward the hips, buttocks, and thighs, making the inner thighs softer and providing natural cushioning for surface friction; (*Note: Fat redistribution is heavily influenced by genetics, baseline BMI, and duration of GAHT, and will not manifest uniformly across all bodies*);
 - **Adductor Muscle Agency**: The inner thigh adductor muscles are voluntary skeletal muscles. Unlike internal cavities regulated by involuntary autonomic reflexes, thigh firmness, rhythm, and pacing are completely in the individual's conscious control.
 - **Pelvic Floor Tone Regulation**:
   In clinical physical therapy, many transfeminine people experience elevated pelvic floor muscle tone due to chronic bottom dysphoria, prolonged tucking, or post-surgical dilation stress.
@@ -116,6 +132,8 @@ In community discussions, many describe intimate experiences under feminine endo
 **The Coexistence and Autonomous Choice of Pleasure Modes**:
 
 As many transfeminine individuals recognize through personal exploration: **The focused impulse of localized stimulation and the gentle roaming of diffuse sensation are natural, coexisting potentials within the human body; they are not bound to a single gender or anatomy. Somatic pleasure is shaped by physiological, psychological, and relational contexts, rather than hormones alone.** Endocrine changes do not invent a rigid, singular model.
+
+Additionally, some individuals are naturally on the **asexual (ace) or low-libido spectrum**, or experience extended phases where they naturally prefer quiet emotional cuddling and skin warmth over sexual release. Low or absent physical urgency is wholly valid and healthy; you never need to "restore" a high-frequency sex drive to prove your wholeness or validity.
 
 Whatever your physical circumstances or gender journey, you possess the full agency to explore, combine, and cultivate the modes that resonate most authentically with your comfort and pacing.
 
@@ -199,7 +217,7 @@ The following practices and techniques are synthesized from community discussion
 - Retaining seamless, soft modal or silk panties maintains compression and visual comfort;
 - **Safety Precaution (Avoiding Inguinal Strain)**:
   - **Never use high-tensile medical tape (tape tucking) during active friction intimacy**;
-  - Prioritize relaxed, elastic underwear tucking. **Avoid pushing the testicles deeply into the inguinal canals when undergoing active body-to-body impact or compression**. Repeated high-pressure displacement can dilate the superficial inguinal ring, increasing the risk of **inguinal hernias** and localized strain.
+  - Prioritize relaxed, elastic underwear tucking. Avoid forcefully displacing the testicles deeply into the inguinal canals during active body impact or weight compression. Community discussions frequently highlight concerns that high-pressure tucking under friction may strain local connective tissue; if you experience dull aching in the lower abdomen or groin, release immediately and consult an affirming physician.
 
 ### 3. Wand Vibrators & Mutual Grinding
 
@@ -210,13 +228,15 @@ The following practices and techniques are synthesized from community discussion
 
 Rocking the pelvic floor against soft plushies or folded blankets allows hands-free release and deep blunt pressure over the perineal body.
 
-### 5. Gentle Touch & Hand Techniques (Insights from *Girl Sex 101*)
+### 5. Gentle Touch & Hand Perception: De-Mechanizing Somatic Exploration
 
-Under hormonal changes or deep relaxation, spontaneous rigidity shifts. In *Girl Sex 101*, Allison Moon and trans contributors share gentle, non-prescriptive somatic experiences:
+Under hormonal changes or deep relaxation, spontaneous rigidity shifts. Modern sex education literature (such as *Girl Sex 101*) and community discussions highlight non-mechanical hand touch that honors feminized sensory pathways:
 
-- **The Softball Fold**: If anatomy is soft or semi-erect, fold it gently upward or along the pubic crease. This creates a compact, cushioned contour, shifting touch away from vertical stroking toward circular, flat-palmed clitoral massage;
-- **The Bike Seat (Perineal Blunt Pressure)**: Homologous erectile roots extend back into the perineum. Pressing the heel of the hand, a fist, or a knee firmly against the perineum (like a bicycle seat) triggers deep, diffuse pelvic resonance;
-- **Lateral Scissors**: Using the index and middle fingers in a gentle scissor-hold around the base, sliding laterally with ample lubricant.
+*(Note: The following names originate from vivid English-speaking community analogies. Their core message is to prioritize gentle, wide-surface warmth over rigid erection; feel free to adapt them to your own bodily comfort.)*
+
+- **The Softball Fold**: When anatomy is soft or semi-erect, fold it gently upward or along the pubic crease. This breaks the phallic grip reflex and redirects focus to flat-palmed, circular massage akin to expansive clitoral stimulation;
+- **The Bike Seat (Perineal Blunt Pressure)**: Homologous erectile roots extend deep into the perineum. Pressing the heel of the hand, a fist, or a knee firmly against the perineal body (like a bicycle saddle) awakens deep pelvic resonance;
+- **Lateral Sliding Touch**: Using the index and middle fingers in a gentle scissor-hold around the base, sliding laterally with ample lubricant as a soft alternative to vertical stroking.
 
 ---
 
@@ -231,7 +251,9 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. In *Girl
 > [!WARNING]
 > **Early Post-Op Healing Contraindications**:
 >
-> During the initial healing window (months following vaginoplasty), surgical flaps, suture lines, and neovaginal tissue are exceptionally fragile. **Any tight thigh squeezing, forceful adductor clamping, or perineal friction is strictly forbidden until full clinical clearance is granted by your surgical team**, due to acute risks of wound dehiscence and hematoma.
+> During the initial post-operative recovery window (timeline varies significantly by surgical method—penile inversion, peritoneal, or colon vaginoplasty—and must strictly adhere to your surgeon's discharge protocol), surgical flaps, suture lines, and neovaginal tissue are exceptionally fragile. **Forceful adductor clamping, tight thigh squeezing, or vigorous friction near the surgical site carries severe clinical risks of wound dehiscence or hematoma!**
+>
+> Intimacy during early convalescence should be limited to verbal connection, hand holding, gentle cuddling, and upper-body caressing. Avoid all strenuous thigh compression or perineal friction until full clinical clearance.
 
 - After complete healing, outercourse remains a self-sufficient, dignified option;
 - During long-term **Dilation Fatigue**, gentle thigh and vulvar touch offers a sanctuary to connect without placing mechanical strain on the neovagina;
@@ -248,12 +270,15 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. In *Girl
 ## V. Diverse Partnership Dynamics, Bilateral Communication & Boundary Maps
 
 ### 1. Trans-Straight Dynamics with Cis Male Partners
-Dismantling the myth that "penetration equals masculinity." Male arousal is highly responsive to vocal cues, warmth, and muscular snugness. Reframing sex as a shared sensory playground eliminates performance anxiety for both partners.
+
+- **Dismantling Performance Myths**: Male arousal is highly responsive to vocal cues, skin warmth, and muscular snugness. Reframing sex as a shared sensory playground eliminates performance anxiety for both partners;
+- **Relieving Partner Performance Pressure**: Male partners can also experience daily exhaustion, situational erectile difficulties, or performance anxiety. Outercourse strips away the rigid demand to "stay hard and penetrate," opening up an unhurried, loving space for mutual emotional release.
 
 ### 2. Trans-Sapphic & T4T (Trans-for-Trans) Partnerships
 
 - **Decentering Phallocentrism**: In sapphic and queer partner dynamics, outercourse and intercrural intimacy are natural extensions of tribadism and whole-body touch, dismantling linear scripts fixated on penetration or ejaculation;
-- **Realities of T4T Relationships**: Shared transgender background does not guarantee identical dysphoria boundaries or HRT milestones. Active boundary communication remains essential—never assume a partner automatically knows where your comfort line lies.
+- **Realities of T4T Relationships**: Shared transgender background does not guarantee identical dysphoria boundaries or HRT milestones. Active boundary communication remains essential—never assume a partner automatically knows where your comfort line lies;
+- **Body Diversity & Ergonomic Support**: Partners naturally vary in flexibility, body size, and stamina. Intimacy never requires uncomfortable contortions. Placing one or two soft pillows or folded blankets beneath the hips, lower back, or knees significantly reduces joint and lumbar strain, allowing both partners to relax into effortless, prolonged warmth.
 
 ### 3. Practical Tool: The "Traffic Light" Body Boundary List
 
@@ -264,6 +289,14 @@ Establishing a neutral, agreed-upon framework prior to intimacy significantly lo
 - 🔴 **Red Light**: Absolute off-limits areas due to intense dysphoria or past trauma (respected without requiring justification).
 
 **Rule of Dynamic Boundaries**: Green zones can shift to red zones depending on daily fatigue and emotional state. Neither partner ever needs to apologize for shifting boundaries.
+
+### 4. Recognizing Red Flags & Bodily Sovereignty: Resisting Chaser Fetishization
+
+Genuine intimacy is founded on mutual love and respect, never on unilateral entitlement or objectifying consumption. In dating and social platforms, transfeminine people frequently encounter individuals who hyper-sexualize or reduce trans bodies to pornographic tropes (commonly referred to as "Chasers"):
+
+- **Differentiating Sincere Connection from Fetishization**: An affirming partner cares about your emotional well-being, honors your life pacing, and sees you as a whole, authentic woman. In contrast, those with fetishizing motives often obsess over anatomical parts, push boundaries impatiently, and treat intimacy as a checklist to fulfill their private fantasies;
+- **Asserting the Absolute Right to Refuse**: Intimacy is never a toll you must pay to prove your desirability or preserve a relationship. The moment you feel objectified, uncomfortable, or violated, you possess the full, unconditional sovereignty to disengage, say no, or block without apology;
+- **Patience for Clumsiness, Zero Tolerance for Violation**: We can be wonderfully patient with a partner’s genuine awkwardness during mutual exploration; however, patience is predicated on mutual listening. Enforcing boundaries is never a disruption of intimacy—it is the bedrock of self-respect that shields you from harm.
 
 ---
 
@@ -291,8 +324,8 @@ Establishing a neutral, agreed-upon framework prior to intimacy significantly lo
 > ⚠️ **Important Notice**: This document provides educational information and synthesizes international public health updates; it does not constitute clinical medical prescriptions or treatment protocols. Readers are strongly advised to consult official guidelines directly or seek individualized guidance from qualified, trans-affirming clinicians.
 
 - **HPV Vaccination**: Because intimate skin-to-skin contact can transmit HPV, public health agencies (e.g., WHO, CDC) universally recommend that eligible individuals receive the 9-valent HPV vaccine, offering substantial protective benefits regardless of gender or surgical status;
-- **Post-Exposure Prophylaxis Trends (e.g., Doxy-PEP)**: Following clinical guidance updates from public health bodies like the US CDC (2024), post-exposure preventive strategies are recognized for reducing bacterial STI risks among specific populations. Readers with relevant risk concerns are advised to consult CDC guidelines or infectious disease specialists directly;
-- **Clarification on PrEP & GAHT Interactions**: Clinical trials demonstrate no significant adverse pharmacological interference between standard PrEP and gender-affirming hormone therapy. Necessary prevention should not be avoided due to hormone concerns. Always consult a physician for individualized regimens;
+- **Scientific Prevention & Medication Awareness**: Standard PrEP/PEP protocols have no significant adverse pharmacological interactions with GAHT; preventative care should never be neglected due to hormone concerns. Regarding bacterial post-exposure prophylaxis (such as Doxy-PEP), due to antibiotic stewardship considerations and differing regional indications, **never self-medicate via unauthorized online purchases**; consult an infectious disease specialist for professional evaluation;
+- **Conception & Pregnancy Considerations**: If an intimate partner has the physiological capacity to produce ova or carry a pregnancy (such as a transmasculine partner or cisgender female partner), even though outercourse does not involve internal ejaculation, active secretions coming into contact with the vulva can theoretically carry a non-zero risk of conception. If pregnancy is not desired, mutually agreed barrier precautions remain essential;
 - **Site-Specific Screening**: During routine sexual health check-ups, communicate actual intimate contact sites with affirming clinicians so that appropriate swab tests can be performed alongside standard urine and blood tests.
 
 ### 2. Epidermal Fragility & Friction Heat (Chafing)
@@ -300,7 +333,9 @@ Estrogen thins the stratum corneum and diminishes sebaceous lubrication. Frictio
 
 ### 3. Lubricant Science: WHO Osmolality Standards & Microecology
 - **WHO Osmolality Benchmark**: Personal lubricants should ideally have an **osmolality below 1,200 mOsm/kg** (physiological level is ~290–380 mOsm/kg). Hyperosmolar lubricants packed with glycerin or propylene glycol draw water out of epithelial cells, causing cellular dehydration and next-day burning pain;
-- **Silicone Lubricants**: Exceptional, long-lasting slip for thigh friction. Compatible with natural latex and polyisoprene condoms; **strictly incompatible with silicone toys**. Never use mineral oil, petrolatum, or cooking oils with latex condoms;
+- **Silicone Lubricants**: Exceptional, long-lasting slip for thigh friction. Compatible with natural latex, polyisoprene (PI), and polyurethane condoms; **strictly incompatible with silicone toys**. Never use mineral oil, petrolatum, or cooking oils with latex condoms;
+  - *Patch Testing*: Before applying a new lubricant brand to expansive skin, perform a patch test on the inner wrist or upper inner thigh to rule out allergic hypersensitivity or burning reactions;
+  - *Toy Hygiene & Material Safety*: Prioritize medical-grade silicone or non-porous ABS for vibrators. If sharing toys or switching between bodily contact zones, disinfect thoroughly with specialized antibacterial toy cleanser or mild soap, or cover with a fresh barrier condom to prevent cross-contamination;
 - **Neovaginal pH Neutrality**: Neovaginal tissue (skin-graft or colon) lacks lactobacilli-dominated acidic flora; its physiological pH is typically **neutral to mildly acidic (pH 5.0–7.0)**. Avoid aggressive acidic feminine washes.
 
 ### 4. Aftercare & Clinical Red Flags
