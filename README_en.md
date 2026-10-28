@@ -185,13 +185,9 @@ Remember: Regardless of past wounds or external judgments, **within your own bed
 
 ## IV. Community Lived Experiences: Exploring Somatic Pleasure, Gentle Masturbation & Intimate Practices
 
-> **Before You Begin: Reclaiming Gentleness for Yourself**
->
-> Self-pleasure and intimate exploration are, at their core, a gentle conversation of reconciliation and trust with your own body. They are wholly legitimate, self-affirming, and never something to carry shame, post-orgasmic guilt, or self-deprecation over.
->
-> Whenever possible, curate a cozy, uninterrupted sanctuary for yourself: slip into a warm blanket, dim the lights or keep a soft lamp on, lock the door, and filter out external noise and surveillance. Somatic exploration does not demand mechanical urgency, nor should it ever resemble self-punishing roughness. Treat your body with the patience and tenderness you would offer someone you truly cherish—breathe slowly, and let sensation unfold at its own authentic pace.
->
-> The practices below are compiled from lived community discussions and modern sex education literature, offering tender pathways for solo self-exploration and partnered intimacy:
+Self-pleasure and somatic exploration are wholly legitimate and self-affirming—never a fault requiring shame, nor a source of post-orgasmic guilt or self-deprecation. When exploring, feel invited to curate an unhurried, safe sanctuary for yourself (such as curling into a warm blanket or dimming the lights), releasing mechanical urgency and treating your body with the gentleness you deserve.
+
+The following practices and techniques are synthesized from community discussions and modern sex education literature, offering pathways for solo exploration or partnered intimacy:
 
 ### 1. Side-Lying Spooning Position
 
