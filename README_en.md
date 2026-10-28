@@ -270,8 +270,8 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. Modern s
 
 ### 1. Trans-Straight Dynamics with Cis Male Partners
 
-- **Dismantling Performance Myths**: Male arousal is highly responsive to vocal cues, skin warmth, and muscular snugness. Reframing sex as a shared sensory playground eliminates performance anxiety for both partners;
-- **Relieving Partner Performance Pressure**: Male partners can also experience daily exhaustion, situational erectile difficulties, or performance anxiety. Outercourse strips away the rigid demand to "stay hard and penetrate," opening up an unhurried, loving space for mutual emotional release.
+- **Dismantling Performance Myths**: Male arousal is highly responsive to vocal cues, skin warmth, and muscular snugness. Guiding a partner to reframe intimacy as a shared sensory playground rather than an exam of conquest transforms the dynamic;
+- **Mutual De-escalation & Embracing Partner Vulnerability**: Eliminating the anxiety of "causing pain or tissue trauma" liberates both partners into a deeper emotional connection. Concurrently, male partners frequently navigate daily fatigue, situational erectile difficulties, or performance anxiety. Outercourse strips away the rigid demand to "stay hard and penetrate," opening up an unhurried, loving space for mutual rest and genuine somatic comfort.
 
 ### 2. Trans-Sapphic & T4T (Trans-for-Trans) Partnerships
 
@@ -318,14 +318,14 @@ Genuine intimacy is founded on mutual love and respect, never on unilateral enti
 > - **HIV & Bloodborne Pathogens**: Negligible risk on intact skin, but requires caution if epidermal abrasions or fluid-to-mucosa contact occurs;
 > - **Molluscum Contagiosum & Pubic Lice**: Readily spread through close skin contact and shared fabrics.
 
-#### Scientific Prevention & Public Health Information (Brief Guide)
+#### Scientific Prevention & Public Health Information
 
-> ℹ️ **Reading Note**: The following synthesizes general sexual health concepts and public health updates for educational context; it does not constitute clinical medical advice. For personalized vaccination, prophylaxis regimens, or diagnostic monitoring, **readers are encouraged to consult official clinical guidelines or trans-affirming healthcare providers**.
+> ⚠️ **Important Notice**: This document provides educational information and synthesizes international public health updates; it does not constitute clinical medical prescriptions or treatment protocols. Readers are strongly advised to consult official guidelines directly or seek individualized guidance from qualified, trans-affirming clinicians.
 
-- **HPV Vaccination**: Because intimate skin-to-skin contact can transmit HPV, public health organizations (such as WHO and CDC) universally recommend the 9-valent HPV vaccine for eligible individuals, providing valuable protection across all gender expressions and surgical statuses;
-- **Prophylaxis & Medical Guidance**: Standard HIV PrEP/PEP regimens do not have clinically significant adverse interactions with GAHT; preventative care should not be avoided due to hormone concerns. Regarding bacterial post-exposure prophylaxis (such as Doxy-PEP), given antibiotic stewardship considerations and differing regional indications, it is best evaluated in consultation with an infectious disease specialist or reviewed via official public health guidelines, rather than attempting self-medication without professional oversight;
-- **Conception & Pregnancy Considerations**: If an intimate partner has the capacity to produce ova or carry a pregnancy, active secretions coming into contact with the vulva can theoretically carry a non-zero chance of conception. If pregnancy is not desired, mutually agreed barrier precautions remain recommended;
-- **Site-Specific Screening**: During routine check-ups, sharing actual intimate contact sites with affirming clinicians ensures relevant swab tests are conducted alongside standard screenings.
+- **HPV Vaccination**: Because intimate skin-to-skin contact can transmit HPV, public health agencies (e.g., WHO, CDC) universally recommend that eligible individuals receive the 9-valent HPV vaccine, offering substantial protective benefits regardless of gender or surgical status;
+- **Scientific Prevention & Medication Awareness**: Standard PrEP/PEP protocols have no significant adverse pharmacological interactions with GAHT; preventative care should never be neglected due to hormone concerns. Regarding bacterial post-exposure prophylaxis (such as Doxy-PEP), due to antibiotic stewardship considerations and differing regional clinical indications, professional clinical guidance from an infectious disease specialist or official public health guidelines should be consulted, rather than self-medicating without medical oversight;
+- **Conception & Pregnancy Considerations**: If an intimate partner has the physiological capacity to produce ova or carry a pregnancy (such as a transmasculine partner or cisgender female partner), even though outercourse does not involve internal ejaculation, active secretions coming into contact with the vulva can theoretically carry a non-zero risk of conception. If pregnancy is not desired, mutually agreed barrier precautions remain essential;
+- **Site-Specific Screening**: During routine sexual health check-ups, communicate actual intimate contact sites with affirming clinicians so that appropriate swab tests can be performed alongside standard urine and blood tests.
 
 ### 2. Epidermal Fragility & Friction Heat (Chafing)
 Estrogen thins the stratum corneum and diminishes sebaceous lubrication. Friction burns (*chafing*) develop rapidly if lubrication dries out. Cease movement immediately upon feeling increased drag or stinging.
