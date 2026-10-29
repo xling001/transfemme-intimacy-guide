@@ -51,22 +51,13 @@
 
 In mainstream reproductive-centric narratives, sex is frequently narrowed down to internal organ penetration (*Intercourse*). This conventional script often imposes multifaceted physical and psychological pressures on transfeminine individuals: non-op and pre-op individuals are often default-pressured into cis-male roles or confined to receptive anal penetration; while post-op individuals face physical limitations during dilation fatigue phases or mucosal recovery.
 
-> 📌 **Terminology & Quick Reference**:
->
-> - **Intercrural Sex (股间亲密)**: An intimate practice utilizing the natural contact and gentle sliding friction of the inner thighs. Termed from neutral sexology, it describes a mutual, body-warming, and decentralized somatic interaction;
-> - **Non-op / Pre-op / Post-op**: Transfeminine individuals who choose not to undergo genital surgery, those awaiting/preparing for surgery, and those who have completed gender-affirming surgery, respectively;
-> - **GAHT / HRT**: Gender-Affirming Hormone Therapy;
-> - **T4T (Trans for Trans)**: Relationships, love, and intimacy between transgender individuals;
-> - **Side**: A sexual orientation or preference focusing on outer touch, kisses, and manual intimacy rather than internal penetration;
-> - **Tribadism**: Mutual surface grinding between body parts, common in sapphic and queer intimacy.
-
 ### 1. Broad "Outercourse" and Intercrural Sex
 
 In modern sex education and sexual health frameworks, **non-penetrative intimacy** (*Outercourse*) represents a broad, dignified, and self-sufficient domain encompassing all intimate expressions that do not involve inserting organs or hard toys into internal bodily cavities (vagina or rectum). It includes:
 
 - Expansive skin-to-skin contact, embracing, deep kissing, and slow full-body caressing;
 - Tactile exploration, external vibration resonance, and mutual body grinding (*Tribadism / Frottage / Grinding*);
-- **Intercrural Sex**: Derived from Latin *inter* [between] and *crura* [thighs], utilizing the natural angle and warm tactile friction of the inner thighs for rhythmical sliding and surface contact.
+- **Intercrural Sex**: Derived from Latin *inter* [between] and *crura* [thighs], utilizing the natural angle and warm tactile friction of the inner thighs for rhythmical sliding and surface contact. Employed here as a desexualized, clinical sexology term, it intentionally moves away from vulgarized labels toward an objective understanding of tactile contact and somatic biomechanics.
 
 Within transfeminine communities, intercrural sex stands out because of its generous contact surface, warm envelopment, and visual shielding properties, providing an authentic haven for somatic grounding.
 
@@ -211,13 +202,16 @@ The following practices and techniques are synthesized from community discussion
 - **Execution**: The receiver lies on their side facing away with legs softly bent; the partner cuddles from behind, sliding comfortably between the thighs;
 - **Strengths**: Broad back contact calms sympathetic arousal, partners' hands remain free to caress the chest or face, and visual genital triggers are eliminated.
 
-### 2. Fabric Barriers & Tucked Exploration (Sex While Tucked)
+### 2. Fabric Barriers & Somatic Exploration while Tucked (Sex while Tucked)
 
-- Retaining seamless, soft modal or silk panties maintains compression and visual comfort;
-- **Safety Precaution (Avoiding Inguinal Strain)**:
-  - **Never use high-tensile medical tape (tape tucking) during active friction intimacy**;
-  - Prioritize relaxed, elastic underwear tucking. Avoid forcefully displacing the testicles deeply into the inguinal canals during active body impact or weight compression. Community discussions frequently highlight concerns that high-pressure tucking under friction may strain local connective tissue; if you experience dull aching in the lower abdomen or groin, release immediately and consult an affirming physician;
-  - **Barrier Limitations**: Underwear fabric diminishes direct skin chafing, but **cannot be equated to blocking sexually transmitted infections** (see Chapter VI).
+> 💡 **Concept & Core Safety Boundary**:
+> "Tucking" refers to the somatic practice of gently positioning the external genitalia backward and flat against the perineum, held securely with form-fitting clothing to maintain a smooth bodily contour. During intimate exploration or surface grinding, **safety boundaries are paramount**: **Never use high-tensile medical tape (tape tucking) during active friction intimacy**, and **avoid forcefully displacing the testicles deeply into the inguinal canals under direct body weight or impact compression**. Rely exclusively on flexible, seamless, soft modal or silk underwear for gentle, relaxed wrapping. If you experience pulling, sharp tension, or dull aching in the lower abdomen or groin, pause immediately and release.
+
+- **Experiential Advantages & Affirmation**:
+  - **Sensory & Visual De-escalation**: Retaining soft, seamless underwear builds a tender physical shield, diminishing dysphoria triggered by direct exposure;
+  - **Somatic Gender Affirmation**: The smooth, secure contour diminishes anatomical dissonance, providing deep emotional grounding and comfort;
+  - **Fabric as a Lubrication Matrix**: Thin fabric infused with lubricant provides a smooth, frictionless sliding interface that protects against chafing and friction burns;
+- **Protection Reminder**: While underwear fabric significantly buffers mechanical chafing, **it does not substitute for barrier contraception or STI protection** (fluids easily permeate normal fabrics; see Chapter VI).
 
 ### 3. Wand Vibrators & Mutual Grinding
 
@@ -247,9 +241,21 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. Modern s
 
 ---
 
-> ### 💬 Scenario 3: Partner Perspectives, Operational Nuances & Safety
+> ### 💬 Scenario 3: Partner Guidance, Operational Nuances & Chafing Prevention
 >
-> Guidance for partners on providing generous lubrication, pacing movements gently, and letting the transfeminine partner lead the cadence.
+> **【Typical Dilemma & Question】**
+>
+> *"My girlfriend shared that she is uncomfortable with direct touch down there and would like to try intimacy with me between her thighs. I'm completely on board, but I've never tried this before. Are there any common pitfalls or things I should be careful of? I'm terrified of being too rough and hurting her."*
+>
+> **【Community Insights & Best Practices】**
+>
+> 1. **Top Pitfall: Lubricant Evaporation & Friction Burns (Chafing)**: Partners often assume outer touch carries zero skin risk. However, the large surface area and friction warmth of the thighs can rapidly evaporate water-based lubricants. Continuing to slide when dry shears the stratum corneum, causing fiery friction burns the next morning. Prioritize premium long-lasting silicone lubricant (if not using silicone toys) or wear ultra-thin modal boxer briefs as a protective fabric barrier; pause to reapply lubricant immediately if resistance increases;
+> 2. **Slow Down & Focus on Gentle Grinding**: Emphasize slow, sensual skin-to-skin resonance and breathing synchronization rather than rapid, forceful thrusting. Wrap your arms tenderly around her upper body to foster full-body intimacy;
+> 3. **Lead by the Transfeminine Partner**: The transfeminine partner should regulate tightness and rhythm via her adductor muscles, with the partner gently adapting to her pace and verbally checking in.
+>
+> **【Aftercare & Emergency Notes】**
+>
+> If next-day redness or chafing occurs, avoid hot water and harsh soaps. Gently pat dry and apply pure petrolatum or dexpanthenol (Vitamin B5) cream, and wear loose cotton shorts. If blistering, crusting, or purulent signs appear, seek clinical evaluation promptly.
 
 ---
 
@@ -292,13 +298,17 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. Modern s
 
 ### 3. Practical Tool: The "Traffic Light" Body Boundary List
 
-Establishing a neutral, agreed-upon framework prior to intimacy significantly lowers anxiety:
+Establishing a shared, neutral shorthand prior to intimacy significantly lowers anxiety. **This is not a cold legal contract, disclaimer, or rigid protocol, but a tender, open-hearted conversation.** Discussing each other's bodily boundaries in a relaxed atmosphere is in itself a deeply bonding experience—it reassures both partners on how to keep each other safe, completely dissolving performance anxiety and the fear of "making a wrong move."
+
+Partners can outline their current somatic boundaries beforehand:
 
 - 🟢 **Green Light**: Zones that feel completely safe, relaxing, and eagerly open to touch (e.g., hair, neck, back, clothed outer thighs);
 - 🟡 **Amber Light**: Exploratory zones requiring extreme gentleness, verbal check-ins, and ready to pause at any moment (e.g., chest, lower abdomen, perineal edges);
 - 🔴 **Red Light**: Absolute off-limits areas due to intense dysphoria or past trauma (respected without requiring justification).
 
-**Rule of Dynamic Boundaries**: Green zones can shift to red zones depending on daily fatigue and emotional state. Neither partner ever needs to apologize for shifting boundaries.
+**Mindset & Dynamic Principles**:
+- **Rule of Dynamic Boundaries**: Green zones can shift to red zones depending on daily fatigue, hormonal fluctuations, and emotional state. Neither partner ever needs to apologize for shifting boundaries;
+- **Sober Consent**: Intimate exploration should take place with sober, mutual awareness. If alcohol or substances are present, agree on boundaries beforehand and ensure either partner can call a comfortable pause at any moment.
 
 ### 4. Vigilance Against Fetishizing Objectification (Chasers) & Asserting Bodily Sovereignty
 
@@ -306,7 +316,8 @@ Genuine intimacy is founded on mutual love and respect, never on unilateral enti
 
 - **Differentiating Sincere Connection from Fetishization**: An affirming partner cares about your emotional well-being, honors your life pacing, and sees you as a whole, authentic woman. In contrast, those with fetishizing motives often obsess over anatomical parts, push boundaries impatiently, and treat intimacy as a checklist to fulfill their private fantasies;
 - **Asserting the Absolute Right to Refuse**: Intimacy is never a toll you must pay to prove your desirability or preserve a relationship. The moment you feel objectified, uncomfortable, or violated, you possess the full, unconditional sovereignty to disengage, say no, or block without apology;
-- **Patience for Clumsiness, Zero Tolerance for Violation**: We can be wonderfully patient with a partner’s genuine awkwardness during mutual exploration; however, patience is predicated on mutual listening. Enforcing boundaries is never a disruption of intimacy—it is the bedrock of self-respect that shields you from harm.
+- **Patience for Clumsiness, Zero Tolerance for Violation**: We can be wonderfully patient with a partner’s genuine awkwardness during mutual exploration; however, patience is predicated on mutual listening. Enforcing boundaries is never a disruption of intimacy—it is the bedrock of self-respect that shields you from harm;
+- **Intra-Community Inclusivity & Boundary Awareness**: Boundary pressure can occasionally arise within trans spaces (e.g., seasoned peers overstepping boundaries under the guise of "shared experience"). Furthermore, many trans women navigate intense personal dysphoria and body anxiety. This pain is entirely human and deserves compassionate listening. What we must gently guard against is channeling personal insecurity into policing or competing with peers (such as comparing who is "more feminine" or "more passing"). True bodily sovereignty flourishes when we honor each other's differences and journey at our own pace, without ever needing to diminish sisters to validate ourselves.
 
 ---
 
@@ -387,12 +398,6 @@ Estrogen thins the stratum corneum and diminishes sebaceous lubrication, making 
 - **Barrier Repair**: Apply pure medical-grade petrolatum, dexpanthenol (Vitamin B5), or ceramide cream to reddened areas, and wear loose, breathable cotton shorts;
 - **Emotional Aftercare**: Offer cuddles, hydration, and affirming reassurance against post-sex blues;
 - **Clinical Red Flags**: If widespread blistering, yellow crusting, purulent discharge, burning during urination, inguinal lymph node swelling, or fever occurs, **consult a dermatologist promptly; avoid self-administering potent corticosteroid creams or antibiotics without medical guidance**.
-
----
-
-> ### 💬 Scenario 6: Managing Friction Burns & Recovery
->
-> Practical aftercare steps: cooling, avoiding hot water/soap irritation, applying petrolatum barrier cream, and monitoring for clinical red flags.
 
 ---
 
