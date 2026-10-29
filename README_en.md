@@ -26,9 +26,11 @@
 >
 > **Core Purpose & Diverse Audience Spectrum**: Rooted in the lived experiences and authentic somatic exploration of transfeminine people, welcoming individuals across all transition paths—whether you are **non-op (choosing not to undergo genital surgery)**, **pre-op (preparing for or awaiting surgery)**, or **post-op (having completed gender-affirming surgery)**; and whether or not you are on Gender-Affirming Hormone Therapy (GAHT/HRT). The right to intimacy, pleasure, and womanhood is self-sufficient and does not hinge on any specific medical procedure. Simultaneously, it offers a welcoming, tender reference space for anyone seeking to dismantle linear scripts and expand their intimate horizons.
 >
-> **Core Scope**: Grounded in broad **non-penetrative intimacy** (*Outercourse*), encompassing full-body touch, mindful sensory awareness, self-pleasure techniques, and toy resonance; while giving dedicated, deep anatomical, psychological, and harm-reduction focus to **intercrural intimacy** (*Intercrural Sex*, i.e., thigh sex) due to its high discussion prominence and uniquely enveloping comfort in community practice.
->
-> **Important Disclaimers & Limitations**:
+> **Core Scope**: Grounded in broad **non-penetrative intimacy** (*Outercourse*), encompassing full-body touch, mindful sensory awareness, self-pleasure techniques, and toy resonance; while giving dedicated, deep anatomical, psychological, and harm-reduction focus to **intercrural intimacy** (*Intercrural Sex*, i.e., thigh sex) due to its high discussion prominence and unique visual-dysphoria shielding qualities in community practice.
+
+**Focus & Stance of This Document**: This document adopts a moderate anti-phallocentric stance: it does not seek to invalidate penises, penetrative intimacy, or anyone's existing preferences, but rather aims to dismantle the cultural monopoly of specific anatomical structures and sexual scripts over intimate imagination. Non-penetrative intimacy holds autonomous value and need not be viewed merely as foreplay, a poor substitute, or a compromised compromise; diverse expressions of intimacy should be chosen equally on the basis of consent, mutual respect, and safety. Outercourse and intercourse are not mutually exclusive—within a single intimate encounter, partners are free to weave them together or experience them independently according to their preferences. Regardless of what forms of intimacy one chooses, or if one identifies on the asexual spectrum, none of this alters one's self-identity or womanhood: **you never need to validate your identity or existence through any specific sexual act**. This document focuses on outercourse experiences **to enrich possibilities and break monopolies, never to set different intimate forms against each other.**
+
+**Important Disclaimers & Limitations**:
 >
 > 1. **Non-Medical & Non-Clinical Informational Resource**: This document is not a peer-reviewed clinical medical guideline and does not constitute medical, endocrine, or professional psychotherapy advice. For acute pain, persistent friction trauma, infections, severe gender dysphoria, or post-operative surgical concerns, please consult a qualified, trans-affirming healthcare practitioner or licensed therapist.
 > 2. **Sampling Sources & Sourcing Bias**: Experiences cited are derived from keyword searches (*intercrural*, *thigh sex*, *outercourse*, *trans clit*, *grinding*, etc.) across public online forums. This methodology carries an inherent self-selection bias (capturing individuals actively exploring or positively responding to outercourse practices). It does not represent a statistical census of all transgender women.
@@ -80,7 +82,7 @@ Outercourse is by no means an inferior "substitute" or compromise; it has always
 ### 4. Core Stance: Non-Hierarchical Value & Bodily Autonomy
 
 - **Grounded in Transfeminine Experience, Offering Exploratory Pathways**: The experiences compiled here are rooted in transfeminine somatic exploration. They do not seek to establish a new mandatory standard, nor do they imply that outercourse is an automatic panacea for everyone. In community reality, **many find profound comfort and warmth in thigh intimacy; others feel neutral, or experience discomfort from friction, warmth, or posture—all of these reactions are completely authentic and normal**. If you try it and feel it is not for you, you can freely set it aside and explore other avenues.
-- **De-Hierarchical Value**: Internal penetration, surface friction, intercrural intimacy, oral sex, and tender affection are completely equal in dignity and erotic worth. **They can stand alone as complete intimate encounters or blend seamlessly; intimacy has no mandatory linear script, and the core always rests on mutual consent and boundary attunement.**
+- **De-Hierarchical Value & De-Moralizing Judgment**: Cavity-penetrative intercourse, surface grinding, intercrural intimacy, oral sex, and tender affective touch are completely equal in human dignity and erotic worth. **Whether an individual maintains specific preferences or explores diverse combinations, intimacy possesses no mandatory linear script; the core always centers on mutual consent and boundary attunement.** This guide presets no obligatory starting or ending point—the presence of these varied preferences and combinations neither negates outercourse nor invalidates penetration; it simply affirms that the choice of intimate expressions belongs entirely to the individual's present embodiment and genuine desires.
 
 ---
 
@@ -121,13 +123,16 @@ In community discussions, many describe intimate experiences under feminine endo
 - Shifting from localized organ tension to shared awakening across the neck, collarbones, chest, lower back, and inner thighs;
 - Intertwining warmth, breathing, and gentle touch into enduring emotional and somatic resonance.
 
-**The Coexistence and Autonomous Choice of Pleasure Modes**:
+> 💡 **Uncoupling Sensation from Gender Identity**
+>
+> It is essential to emphasize that the aforementioned "diffuse full-body sensation" is not an exam benchmark of "authentic femininity." The localized impulse of direct stimulation and the slow, wandering flow of diffuse sensation are natural, coexisting potentials within human embodiment—they are never tethered exclusively to a single gender or anatomy. Cisgender men can thoroughly enjoy slow-paced full-body caressing, and transgender women can equally favor rapid, intense localized stimulation. Choosing which mode to explore depends purely on one's present somatic comfort and authentic preference. Concurrently, one should avoid stereotypically attributing all sensory shifts purely to hormones, and never treat any particular sensation as a measuring tape for "being woman enough."
 
-As many transfeminine individuals recognize through personal exploration: **The focused impulse of localized stimulation and the gentle roaming of diffuse sensation are natural, coexisting potentials within the human body; they are not bound to a single gender or anatomy. Somatic pleasure is shaped by physiological, psychological, and relational contexts, rather than hormones alone.** Endocrine changes do not invent a rigid, singular model.
+**Authentic Feedback & Inclusivity for Low-Libido / Asexual Spectrums**:
 
-Additionally, some individuals are naturally on the **asexual (ace) or low-libido spectrum**, or experience extended phases where they naturally prefer quiet emotional cuddling and skin warmth over sexual release. Low or absent physical urgency is wholly valid and healthy; you never need to "restore" a high-frequency sex drive to prove your wholeness or validity.
+Outercourse is likewise not a universal answer for everyone; feeling neutral or unenthusiastic during exploration is completely common:
 
-Whatever your physical circumstances or gender journey, you possess the full agency to explore, combine, and cultivate the modes that resonate most authentically with your comfort and pacing.
+- **Tactile & Mechanical Limitations**: Some find external friction stimulation mild or lacking sensation; others experience sensory aversion to inner thigh skin friction; and some feel frustrated by awkward postures or the tackiness of lubricants. All of these reactions are entirely authentic and valid;
+- **Asexual & Low-Libido Spectrums**: For individuals on the asexual spectrum or navigating prolonged phases of low libido, the core reality is often an absence of sexual impulse itself, rather than "lacking novel techniques"—body intimacy does not automatically serve as a "panacea." Long-term low libido or a pure preference for gentle emotional cuddling is a self-sufficient, completely healthy way of being. There is never any need to subject yourself to performance pressure simply to evoke an intimate response.
 
 ---
 
@@ -167,11 +172,12 @@ In psychology and sexology, this is recognized as **Self-Objectification** and *
 
 Remember: Regardless of past wounds or external judgments, **within your own bed, your body does not need to submit an exam to anyone**. Your body is a breathing, feeling sanctuary deserving of tender care.
 
-**Allowing Sensations to Flow Freely**:
-- **Embracing Clumsiness**: It is entirely okay to be quiet, clumsy, paused, or resting your head in a pillow. Let go of people-pleasing and embrace the unpolished present;
-- **Dimming Visual Critique**: Dim the lights or close your eyes. Closing your eyes is not avoidance; it is cutting off visual self-surveillance to bring attention back to skin contact and warmth;
-- **Feeling Reciprocal Love**: Release the obsession with perfection. Open your eyes to see your partner’s tender regard. Intimacy is laying down defense in mutual warmth;
-- **Affirming Anatomical Language**: Within the private intimate space shared with a partner, many individuals collaboratively choose affirming terms for their bodies (such as "clit," "girl-dick," or neutral terms, as advocated by scholars like Julia Serano in relationship dynamics). Treating anatomy labels as *descriptive rather than prescriptive* strictly within partner intimacy avoids public controversy while eliminating misgendering discomfort in private.
+**Allowing Sensations to Flow Naturally Across Any Intimacy Form**:
+
+- **Allowing Authentic Clumsiness**: In intimacy, it is completely valid to be quiet, clumsy, paused, or burying your face in a pillow; give your body permission to exist in its authentic, unpolished state;
+- **Dimming Visual Critique**: Whether alone or holding each other, try dimming the lights; when visual surveillance exhausts you, close your eyes and gently anchor your attention back to touch, breath, and present sensations;
+- **Feeling Reciprocal Love**: Intimacy is not only internal self-soothing, but a sincere resonance of mutual care. In an interaction where both feel comfortable and respected, neither movement nor reaction needs to be evaluated like a performance test. You can express yourself honestly and accept your partner's tenderness with an open heart; you do not need to be flawless, nor must you push past your boundaries to prove intimacy. It is not about scoring points, but laying down defenses within shared warmth—giving without judgment, receiving with open grace;
+- **Collaborative Negotiation of Anatomical Language**: Everyone holds unique personal preferences regarding anatomical terms. In English community practices, some prefer clinical or anatomical terminology, others lean toward feminine, gender-neutral, or private terms, and some ask partners to avoid specific trigger words. Treating intimate language as *descriptive rather than prescriptive* strictly within private partner spaces bypasses public discourse and gently minimizes bodily dysphoria triggered by misaligned words.
 
 > 💡 **Somatic Safety Memo**: Self-surveillance, dysphoria, and trauma-induced dissociation have distinct mechanisms. If acute dissociation or panic occurs, **closing one's eyes or pushing through is insufficient**. Pause intimacy immediately and use somatic grounding techniques (feet planted on the floor, wrapped in a weighted blanket, holding a warm mug of water, or utilizing the **5-4-3-2-1 sensory grounding technique**: noticing 5 visible objects, 4 touchable textures, 3 ambient sounds, 2 scents, and taking 1 sip of warm water). Seek professional psychological support if needed.
 
@@ -288,9 +294,9 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. Modern s
 
 ### 1. Trans-Straight Dynamics with Cis Male Partners
 
-- **Dismantling Performance Myths**: Male arousal is highly responsive to vocal cues, skin warmth, and muscular snugness. Guiding a partner to reframe intimacy as a shared sensory playground rather than an exam of conquest transforms the dynamic;
-- **Mutual De-escalation & Embracing Partner Vulnerability**: Eliminating the anxiety of "causing pain or tissue trauma" liberates both partners into a deeper emotional connection. Concurrently, male partners frequently navigate daily fatigue, situational erectile difficulties, or performance anxiety. Outercourse strips away the rigid demand to "stay hard and penetrate," opening up an unhurried, loving space for mutual rest and genuine somatic comfort;
-- **De-singularizing Partner Expectations**: Male partners vary in individual preferences, sensitivities, and communication styles. Never assume every partner will immediately adapt or achieve identical orgasmic feedback through outercourse without patient, egalitarian exploration.
+- **Dismantling the Stereotype of "No Penetration Means Dissatisfaction or Inadequacy"**: Conventional scripts frequently conflate male sexual capacity with rigid erection and penetration, often burdening male partners with severe performance anxiety to "stay hard and endure." Yet men also possess diverse internal variations: male sexual satisfaction is not strictly tethered to penetration, nor should masculinity or competence be judged by a single act. Bodily friction, mutual manual stimulation, and outercourse can offer profound pleasure and authentic satisfaction, rather than serving merely as compromised substitutes for penetration.
+- **Mutual Decompression**: For transfeminine individuals and their partners, outercourse provides expansive room to explore bodily sensations, express desires, and negotiate boundaries. It relieves the psychological burden of "fearing tissue tearing or severe pain," allowing both to engage in emotional connection with a far more relaxed mindset. However, it is not a universal cure-all for everyone, nor does it inherently require either partner to change their intrinsic preferences for the other.
+- **De-Homogenizing Partner Expectations**: We should never assume that every male partner will instantly embrace or achieve identical orgasmic satisfaction through outercourse. A man's desire for penetrative intercourse does not inherently imply backward thinking, lack of respect for trans women, or obsession with specific anatomical traits. Different men carry distinct desires and boundaries. The essence lies in patient, egalitarian communication and exploration, discovering mutual compatibility without coercion.
 
 ### 2. Trans-Sapphic & T4T (Trans-for-Trans) Partnerships
 
@@ -298,15 +304,15 @@ Under hormonal changes or deep relaxation, spontaneous rigidity shifts. Modern s
 - **Realities of T4T Relationships**: Shared transgender background does not guarantee identical dysphoria boundaries or HRT milestones. Active boundary communication remains essential—never assume a partner automatically knows where your comfort line lies;
 - **Body Diversity & Ergonomic Support**: Partners naturally vary in flexibility, body size, and stamina. Intimacy never requires uncomfortable contortions. Placing one or two soft pillows or folded blankets beneath the hips, lower back, or knees significantly reduces joint and lumbar strain, allowing both partners to relax into effortless, prolonged warmth.
 
-### 3. Practical Tool: The "Traffic Light" Body Boundary List
+### 3. Practical Tool: The "Traffic Light" Body Boundary Map
 
-Establishing a shared, neutral shorthand prior to intimacy significantly lowers anxiety. **This is not a cold legal contract, disclaimer, or rigid protocol, but a tender, open-hearted conversation.** Discussing each other's bodily boundaries in a relaxed atmosphere is in itself a deeply bonding experience—it reassures both partners on how to keep each other safe, completely dissolving performance anxiety and the fear of "making a wrong move."
+Prior to intimate interaction, partners can use simple, relatively neutral language to communicate present bodily boundaries, lowering the threshold for expressing desires and saying no. Exploring each other's somatic maps in a relaxed, pressure-free atmosphere is in itself a deeply bonding experience—it reassures both partners on how to cultivate maximum safety, dismantling performance anxiety and the fear of "making a wrong move or causing pain."
 
-Partners can outline their current somatic boundaries beforehand:
+The traffic light model is not a rigid classification of body parts, but a dynamic map determined by each person according to their own lived comfort:
 
-- 🟢 **Green Light**: Zones that feel completely safe, relaxing, and eagerly open to touch (e.g., hair, neck, back, clothed outer thighs);
-- 🟡 **Amber Light**: Exploratory zones requiring extreme gentleness, verbal check-ins, and ready to pause at any moment (e.g., chest, lower abdomen, perineal edges);
-- 🔴 **Red Light**: Absolute off-limits areas due to intense dysphoria or past trauma (respected without requiring justification).
+- 🟢 **Green Light**: Areas and forms of touch where one currently feels relaxed, willing, and eager to welcome intimacy;
+- 🟡 **Amber Light**: Areas or practices that remain uncertain, require careful check-ins, or necessitate verbal consent beforehand, with full freedom for either partner to pause or change their mind at any moment;
+- 🔴 **Red Light**: Absolute off-limits zones or interactions (including non-consensual touch, gaze, recording/photography, or other unsolicited actions) due to intense dysphoria or past trauma. These boundaries require zero justification and must never be met with persuasion, probing, testing, or coercion.
 
 **Mindset & Dynamic Principles**:
 - **Rule of Dynamic Boundaries**: Green zones can shift to red zones depending on daily fatigue, hormonal fluctuations, and emotional state. Neither partner ever needs to apologize for shifting boundaries;
