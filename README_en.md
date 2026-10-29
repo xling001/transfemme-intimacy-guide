@@ -7,6 +7,8 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0" /></a>
   <a href="https://github.com/xling001/transfemme-outercourse-notes/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <img src="https://img.shields.io/badge/Community-Trans%20Affirming-5BCEFA.svg" alt="Trans Affirming" />
+  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%A4%8D%20Love-f5a9b8.svg" alt="Made with Love" />
   <a href="README.md"><img src="https://img.shields.io/badge/docs-简体中文-blue.svg" alt="Chinese Documentation" /></a>
 </p>
 
