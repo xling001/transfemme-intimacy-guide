@@ -108,9 +108,10 @@ External genitalia originate from shared embryonic tissue and share identical in
   - When GAHT reduces erectile volume and thins epidermal layers, the perineum (between the base of the genitalia and the anus) and scrotal raphe retain rich tactile corpuscles;
   - Moderate warmth, wide sliding friction, and blunt pressure directly activate these homologous neural pathways, triggering diffuse pelvic floor resonance without requiring an erection.
 
-### 2. Muscle Control & Pelvic Floor Relaxation
+### 2. Fat Redistribution, Skin Fragility & Pelvic Floor Regulation
 
 - **Subcutaneous Fat Redistribution**: Feminizing hormone therapy encourages adipose tissue redistribution toward the hips, buttocks, and thighs, making the inner thighs softer and providing natural cushioning for surface friction; (*Note: Fat redistribution is heavily influenced by genetics, baseline BMI, and duration of GAHT, and will not manifest uniformly across all bodies*);
+- **Skin Texture Shifts & Skin Fragility**: Under the influence of estrogen and anti-androgens, sebaceous oil secretion diminishes markedly, rendering full-body skin softer and thinner, but concurrently more susceptible to dryness, redness, or friction chafing during prolonged movement. During intimate exploration, ensure timely lubricant reapplication or utilize soft fabric barriers (detailed prevention and care guidelines in Scenario 3);
 - **Adductor Muscle Agency**: The inner thigh adductor muscles are voluntary skeletal muscles. Unlike internal cavities regulated by involuntary autonomic reflexes, thigh firmness, rhythm, and pacing are completely in the individual's conscious control.
 - **Pelvic Floor Tone Regulation**:
   In clinical physical therapy, many transfeminine people experience elevated pelvic floor muscle tone due to chronic bottom dysphoria, prolonged tucking, or post-surgical dilation stress.
@@ -380,14 +381,7 @@ Informed consent and physical health remain the foundational bedrock of all inti
 - **Conception & Pregnancy Considerations**: If an intimate partner has the physiological capacity to produce ova or carry a pregnancy, active secretions coming into contact with the vulva theoretically carry a non-zero risk of conception. If pregnancy is not desired, barrier precautions remain recommended;
 - **Site-Specific Screening**: During routine sexual health check-ups, communicate actual intimate contact sites with affirming clinicians so that appropriate swab tests can be performed alongside standard urine and blood tests.
 
-### 2. GAHT-Induced Skin Fragility & Friction Heat (Chafing)
-
-Estrogen thins the stratum corneum and diminishes sebaceous lubrication, making the skin softer yet more vulnerable to friction. If continuous sliding occurs without adequate lubrication, mechanical damage ensues:
-
-- **Friction Burns (Chafing)**: Presents initially as redness and burning; unaddressed, it can progress to skin peeling, serous weeping, and folliculitis;
-- **Pacing & Stopping Early**: The moment sliding resistance increases or a stinging sensation arises, pause immediately to reapply lubricant.
-
-### 3. Lubricant Science: WHO Osmolality Standards & Material Compatibility
+### 2. Lubricant Science: WHO Osmolality Standards & Material Compatibility
 
 - **WHO Osmolality Benchmark**:
   WHO quality standards recommend personal lubricants maintain an **osmolality below 1,200 mOsm/kg** (physiological benchmark ~290–380 mOsm/kg).
@@ -404,7 +398,7 @@ Estrogen thins the stratum corneum and diminishes sebaceous lubrication, making 
 - **Neovaginal pH Neutrality**:
   Neovaginal tissue (skin-graft or colon) lacks lactobacilli-dominated acidic flora; its physiological pH is typically **neutral to mildly acidic (pH 5.0–7.0)**. Avoid harsh acidic feminine washes; choose mild, neutral to slightly acidic water-based lubricants.
 
-### 4. Aftercare & Clinical Red Flags
+### 3. Aftercare & Clinical Red Flags
 
 - **Gentle Cleansing**: Use a warm, soft towel to pat away sweat and lubricant (warm water for water-based; mild neutral cleanser for silicone, avoiding harsh scrubbing);
 - **Barrier Repair**: Apply pure medical-grade petrolatum, dexpanthenol (Vitamin B5), or ceramide cream to reddened areas, and wear loose, breathable cotton shorts;
