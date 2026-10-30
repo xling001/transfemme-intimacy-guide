@@ -957,6 +957,17 @@
       display: flex;
       flex-direction: column;
     }
+    .boundary-tool-notice {
+      padding: 8px 16px;
+      background: var(--bg-page);
+      border-bottom: 1px solid var(--border-hairline);
+      font-size: 12px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+    }
     .boundary-category-header {
       padding: 9px 16px;
       background: var(--bg-subtle);
@@ -1357,7 +1368,7 @@
     const GROUPS = [{"id": "grp-intro", "title": "导读与写在前面", "num": "00", "readTime": "2 分钟", "expandable": false, "defaultCollapsed": false, "badge": "", "items": [{"id": "home", "title": "写在前面的心意 · 导读寄语", "tag": "导读"}]}, {"id": "grp-ch1", "title": "认识自己与自我接纳", "num": "01", "readTime": "6 分钟", "expandable": true, "defaultCollapsed": false, "badge": "", "items": [{"id": "sec-1-1", "title": "1.1 性别认同与性取向：身体自决与标签解绑", "tag": "1.1"}, {"id": "sec-1-2", "title": "1.2 现实制度与自我接纳：医疗程序之外的尊严", "tag": "1.2"}, {"id": "sec-1-3", "title": "1.3 身体中立与自我和解：打破“标准女性模版”", "tag": "1.3"}, {"id": "sec-1-4", "title": "1.4 感知图谱与身体潜能：感受与认同的解绑", "tag": "1.4"}]}, {"id": "grp-ch2", "title": "身体机制与心理基础", "num": "02", "readTime": "8 分钟", "expandable": true, "defaultCollapsed": false, "badge": "", "items": [{"id": "sec-2-1", "title": "2.1 激素治疗中可能出现的身体变化", "tag": "2.1"}, {"id": "sec-2-2", "title": "2.2 心理安全感与放松：探索的重要基础", "tag": "2.2"}, {"id": "scene-1", "title": "💬 情景模拟 ①：用药初期欲望变化与心理调适", "tag": "情景①"}]}, {"id": "grp-ch3", "title": "自爱自尊：沟通、边界与防范", "num": "03", "readTime": "10 分钟", "expandable": true, "defaultCollapsed": false, "badge": "", "items": [{"id": "sec-3-1", "title": "3.1 知情同意：亲密的核心在于“拥有叫停权利”", "tag": "3.1"}, {"id": "sec-3-2", "title": "3.2 实用沟通工具：身体边界“红黄绿灯清单” ⚡", "tag": "3.2 工具"}, {"id": "sec-3-3", "title": "3.3 缓冲身体烦躁与减轻自我审视：拒绝床榻表演", "tag": "3.3"}, {"id": "sec-3-4", "title": "3.4 彼此关怀与事后温存（Aftercare）", "tag": "3.4"}, {"id": "sec-3-5", "title": "3.5 识别并远离猎奇客体化（Chaser）与情感操控", "tag": "3.5"}, {"id": "sec-3-6", "title": "3.6 拒绝社群内部的攀比内卷：尊重差异与自身节奏", "tag": "3.6"}, {"id": "scene-2", "title": "💬 情景模拟 ②：面对伴侣期待与自身边界的坦诚沟通", "tag": "情景②"}, {"id": "scene-3", "title": "💬 情景模拟 ③：社交平台上遇到言语越界与索照防范", "tag": "情景③"}]}, {"id": "grp-ch4", "title": "健康底线与科学求医", "num": "04", "readTime": "7 分钟", "expandable": true, "defaultCollapsed": false, "badge": "", "items": [{"id": "sec-4-1", "title": "4.1 个人卫生习惯：亲密前后排尿与温和清洁", "tag": "4.1"}, {"id": "sec-4-2", "title": "4.2 伴侣避孕的盲区提示：GAHT非避孕", "tag": "4.2"}, {"id": "sec-4-3", "title": "4.3 科学求医：前往正规公立医院，避免网购偏方", "tag": "4.3"}, {"id": "scene-4", "title": "💬 情景模拟 ④：身体出现皮损不适时前往医院就诊沟通", "tag": "情景④"}]}, {"id": "grp-app", "title": "附录", "num": "附", "readTime": "7 篇身体与亲密探索", "expandable": true, "defaultCollapsed": true, "badge": "部分内容不宜工作时浏览", "items": [{"id": "app-1", "title": "附录一：感染防护与健康防线（双向须知）", "tag": "附录一"}, {"id": "app-2", "title": "附录二：后庭纳入式亲密注意事项（重点安全常识）", "tag": "附录二"}, {"id": "app-3", "title": "附录三：非纳入式体表亲密实践（重申平等地位）", "tag": "附录三"}, {"id": "app-4", "title": "附录四：已术个体的腔道纳入与阶段性休整注意事项", "tag": "附录四"}, {"id": "app-5", "title": "附录五：自我探索与去机械化手法", "tag": "附录五"}, {"id": "app-6", "title": "附录六：润滑剂科学选用与摩擦损伤急救 🚨", "tag": "附录六"}, {"id": "app-7", "title": "附录七：未术 T4T 伴侣亲密实践（双向烦躁调适）", "tag": "附录七"}]}, {"id": "grp-conclusion", "title": "结语：自主、自尊与身体掌控", "num": "尾", "readTime": "1 分钟", "expandable": false, "defaultCollapsed": false, "badge": "", "items": [{"id": "conclusion", "title": "结语：自主、自尊与身体掌控", "tag": "结语"}]}];
     const QUICK_CHIPS = [{"label": "#摩擦红肿急救", "query": "摩擦损伤"}, {"label": "#水基硅基选择", "query": "润滑剂"}, {"label": "#红黄绿灯清单", "query": "红黄绿灯"}, {"label": "#就医防猎奇话术", "query": "医院就诊"}, {"label": "#情景模拟", "query": "情景模拟"}, {"label": "#未术T4T亲密", "query": "T4T"}];
     const BOUNDARY_CATEGORIES = [{"id": "part", "title": "身体部位", "icon": "📍"}, {"id": "practice", "title": "亲密方式", "icon": "✨"}, {"id": "verbal_recording", "title": "言语和拍摄", "icon": "🛡️"}];
-    const BOUNDARY_ITEMS = [{"id": "bp-1", "category": "part", "text": "头部与发丝", "status": "amber"}, {"id": "bp-2", "category": "part", "text": "颈部、耳后与锁骨", "status": "amber"}, {"id": "bp-3", "category": "part", "text": "肩背与腰腹", "status": "amber"}, {"id": "bp-4", "category": "part", "text": "双手与手臂", "status": "amber"}, {"id": "bp-5", "category": "part", "text": "胸部区域", "status": "amber"}, {"id": "bp-6", "category": "part", "text": "大腿内侧与臀部", "status": "amber"}, {"id": "bp-7", "category": "part", "text": "原生敏感部位", "status": "amber"}, {"id": "bp-8", "category": "part", "text": "肛周与后庭区域", "status": "amber"}, {"id": "pr-1", "category": "practice", "text": "隔着衣物的拥抱与体表贴合", "status": "amber"}, {"id": "pr-2", "category": "practice", "text": "温和的徒手抚触与慢速揉按", "status": "amber"}, {"id": "pr-3", "category": "practice", "text": "双腿内侧贴合与体表摩擦", "status": "amber"}, {"id": "pr-4", "category": "practice", "text": "被窝内的身体包裹与慢速研磨", "status": "amber"}, {"id": "pr-5", "category": "practice", "text": "震动器具或外部辅助工具接触", "status": "amber"}, {"id": "pr-6", "category": "practice", "text": "原生部位的直接触碰与刺激", "status": "amber"}, {"id": "pr-7", "category": "practice", "text": "后庭纳入式接触", "status": "amber"}, {"id": "vr-1", "category": "verbal_recording", "text": "特定性别称呼或亲密言语表达", "status": "red"}, {"id": "vr-2", "category": "verbal_recording", "text": "涉及私密的拍照、录像或留存影像", "status": "red_locked"}];
+    const BOUNDARY_ITEMS = [{"id": "bp-1", "category": "part", "text": "头发与头部", "status": "amber"}, {"id": "bp-2", "category": "part", "text": "面部与唇部", "status": "amber"}, {"id": "bp-3", "category": "part", "text": "颈项与锁骨", "status": "amber"}, {"id": "bp-4", "category": "part", "text": "肩背与腰腹", "status": "amber"}, {"id": "bp-5", "category": "part", "text": "双手与手臂", "status": "amber"}, {"id": "bp-6", "category": "part", "text": "胸部区域", "status": "amber"}, {"id": "bp-7", "category": "part", "text": "大腿与臀部", "status": "amber"}, {"id": "bp-8", "category": "part", "text": "下体敏感部位", "status": "amber"}, {"id": "bp-9", "category": "part", "text": "肛周与后庭", "status": "amber"}, {"id": "pr-1", "category": "practice", "text": "保留私密/贴身衣物", "status": "amber"}, {"id": "pr-2", "category": "practice", "text": "抚摸、亲吻与拥抱", "status": "amber"}, {"id": "pr-3", "category": "practice", "text": "体表贴合与研磨", "status": "amber"}, {"id": "pr-4", "category": "practice", "text": "使用情趣/辅助器具", "status": "amber"}, {"id": "pr-5", "category": "practice", "text": "体内纳入式接触", "status": "amber"}, {"id": "vr-1", "category": "verbal_recording", "text": "引发烦躁、焦虑或不适的称呼与词汇", "status": "red"}, {"id": "vr-2", "category": "verbal_recording", "text": "未经事先明确协商的言语羞辱或贬损", "status": "red"}, {"id": "vr-3", "category": "verbal_recording", "text": "涉及私密的拍照、录像或留存影像", "status": "red_locked"}];
 
     let currentSectionIndex = 0;
     // Track collapsed state of groups (附录 default collapsed as requested!)
@@ -1676,6 +1687,10 @@
               <span class="boundary-pill ${boundaryFilter === 'red' ? 'active' : ''}" onclick="setBoundaryFilter('red')">🔴 禁区</span>
             </div>
           </div>
+          <div class="boundary-tool-notice">
+            <span>💡</span>
+            <span>提示：本清单面向多元群体，不能涵盖所有个人的身体倾向与亲密方式，仅供沟通参考，请以双方当下的真实感受为准。</span>
+          </div>
           <div class="boundary-list">
       `;
 
@@ -1777,7 +1792,7 @@
 
       BOUNDARY_ITEMS.forEach(item => {
         const current = boundaryState[item.id] || item.status;
-        if (item.id === 'vr-2') {
+        if (item.id === 'vr-3') {
           recordingLocked = current === 'red_locked' || current === 'red';
           return;
         }
@@ -1786,7 +1801,7 @@
         else if (current === 'red') redList.push(item.text);
       });
 
-      let noteText = "【我的身体边界与当下舒适偏好】\n为了让我们在一起时能更自在、安心，我整理了这份当下的偏好：\n";
+      let noteText = "【我的身体边界与当下舒适偏好】\n为了让我们在一起时能更自在、安心，我整理了这份当下的偏好（仅供参考）：\n";
       if (greenList.length > 0) {
         noteText += "\n🟢 舒适区（感到放松自如）：\n   " + greenList.join("、") + "\n";
       }
