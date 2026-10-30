@@ -42,7 +42,7 @@
 
       --font-base: 16.5px;
       --line-height-base: 1.85;
-      --max-width-content: 720px;
+      --max-width-content: 860px;
       --radius-sm: 6px;
       --radius-md: 10px;
       --radius-lg: 16px;
@@ -123,10 +123,10 @@
     }
 
     .header-inner {
-      max-width: 1160px;
+      max-width: 1280px;
       width: 100%;
       margin: 0 auto;
-      padding: 0 16px;
+      padding: 0 24px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -139,15 +139,24 @@
     }
 
     .menu-toggle {
-      display: none;
-      background: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--bg-surface);
       border: 1px solid var(--border-hairline);
-      font-size: 16px;
+      font-size: 13px;
+      font-weight: 500;
       cursor: pointer;
-      color: var(--text-primary);
-      padding: 5px 8px;
+      color: var(--text-secondary);
+      padding: 5px 10px;
       border-radius: var(--radius-sm);
       line-height: 1;
+      transition: all 0.15s ease;
+    }
+    .menu-toggle:hover {
+      color: var(--color-warm-rose);
+      border-color: var(--border-strong);
+      background: var(--bg-subtle);
     }
 
     .brand-link {
@@ -214,24 +223,40 @@
 
     /* Main Container Layout */
     .main-wrapper {
-      max-width: 1160px;
+      max-width: 1280px;
       width: 100%;
       margin: 0 auto;
       display: flex;
       flex: 1;
-      padding: 24px 16px 80px;
-      gap: 36px;
+      padding: 24px 24px 80px;
+      gap: 32px;
+      position: relative;
+      transition: max-width 0.25s ease;
     }
 
     /* Left Sidebar (Desktop) */
     aside.sidebar {
-      width: 300px;
+      width: 280px;
       flex-shrink: 0;
       position: sticky;
-      top: 76px;
-      height: calc(100vh - 96px);
+      top: 74px;
+      height: calc(100vh - 94px);
       overflow-y: auto;
-      padding-right: 8px;
+      padding-right: 4px;
+      transition: width 0.28s cubic-bezier(0.4, 0, 0.2, 1),
+                  opacity 0.22s ease,
+                  margin 0.28s cubic-bezier(0.4, 0, 0.2, 1),
+                  transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    body.sidebar-collapsed aside.sidebar {
+      width: 0;
+      opacity: 0;
+      margin-right: -32px;
+      pointer-events: none;
+      transform: translateX(-16px);
+      overflow: hidden;
+      padding: 0;
+      border: none;
     }
     aside.sidebar::-webkit-scrollbar {
       width: 4px;
@@ -250,6 +275,71 @@
       display: flex;
       flex-direction: column;
       gap: 12px;
+    }
+
+    
+    /* Sidebar Collapsible Header & Floating Toggle */
+    .sidebar-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-bottom: 2px;
+    }
+    .sidebar-collapse-btn {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-hairline);
+      color: var(--text-secondary);
+      font-size: 11.5px;
+      font-weight: 500;
+      padding: 3px 8px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .sidebar-collapse-btn:hover {
+      background: var(--color-warm-rose-soft);
+      color: var(--color-warm-rose);
+      border-color: var(--color-warm-rose);
+    }
+    .floating-sidebar-toggle {
+      display: none;
+      position: fixed;
+      left: 0;
+      top: 96px;
+      z-index: 35;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-hairline);
+      border-left: none;
+      border-radius: 0 var(--radius-md) var(--radius-md) 0;
+      padding: 8px 12px 8px 10px;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      cursor: pointer;
+      box-shadow: 2px 2px 10px rgba(0,0,0,0.06);
+      transition: all 0.2s ease;
+    }
+    .floating-sidebar-toggle:hover {
+      color: var(--color-warm-rose);
+      background: var(--bg-subtle);
+      padding-left: 14px;
+      border-color: var(--color-warm-rose);
+    }
+    body.sidebar-collapsed .floating-sidebar-toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    @media (max-width: 880px) {
+      .floating-sidebar-toggle {
+        display: none !important;
+      }
+      .menu-toggle-text {
+        display: none;
+      }
     }
 
     /* Instant Search Filter */
@@ -475,6 +565,10 @@
       min-width: 0;
       max-width: var(--max-width-content);
       margin: 0 auto;
+      transition: max-width 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    body.sidebar-collapsed main.content-area {
+      max-width: 920px;
     }
 
     /* Breadcrumbs */
@@ -505,7 +599,7 @@
       background: var(--bg-surface);
       border: 1px solid var(--border-hairline);
       border-radius: var(--radius-md);
-      padding: 36px 40px;
+      padding: 40px 48px;
       box-shadow: var(--shadow-editorial);
       transition: all 0.2s ease;
     }
@@ -740,20 +834,20 @@
 
     /* Bottom Page Navigator */
     .page-nav-bar {
-      margin-top: 36px;
+      margin-top: 40px;
       display: flex;
-      align-items: center;
+      align-items: stretch;
       justify-content: space-between;
-      gap: 12px;
-      padding-top: 20px;
+      gap: 16px;
+      padding-top: 24px;
       border-top: 1px solid var(--border-hairline);
     }
     .nav-btn {
       flex: 1;
       display: flex;
       align-items: center;
-      gap: 8px;
-      padding: 10px 14px;
+      gap: 10px;
+      padding: 13px 18px;
       background: var(--bg-surface);
       border: 1px solid var(--border-hairline);
       border-radius: var(--radius-sm);
@@ -762,8 +856,34 @@
       color: var(--text-secondary);
       cursor: pointer;
       text-decoration: none;
-      transition: all 0.15s ease;
+      transition: all 0.2s ease;
       min-width: 0;
+    }
+    .nav-btn:hover {
+      border-color: var(--color-warm-rose);
+      color: var(--color-warm-rose);
+      background: var(--bg-subtle);
+      transform: translateY(-1px);
+      box-shadow: 0 3px 10px rgba(201, 104, 128, 0.08);
+    }
+    .nav-btn.disabled {
+      opacity: 0.35;
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+    .nav-btn-next {
+      justify-content: flex-end;
+      text-align: right;
+    }
+    .nav-btn-text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .nav-arrow {
+      font-size: 15px;
+      flex-shrink: 0;
+      color: var(--color-warm-rose);
     }
     .nav-btn:hover:not(.disabled) {
       background: var(--color-warm-rose-soft);
@@ -1064,7 +1184,10 @@
   <header>
     <div class="header-inner">
       <div class="header-left">
-        <button class="menu-toggle" onclick="toggleDrawer(true)" aria-label="打开目录">☰</button>
+        <button class="menu-toggle" id="menu-toggle-btn" onclick="handleMenuToggle()" aria-label="切换目录侧边栏" title="展开/收起目录 (快捷键 [ )">
+          <span style="font-size: 14px;">☰</span>
+          <span class="menu-toggle-text">目录</span>
+        </button>
         <a href="#/home" class="brand-link">
           <span style="font-size: 16px;">🌸</span>
           <span>跨女性亲密自护经验</span>
@@ -1109,12 +1232,27 @@
     <div id="mobile-nav-container"></div>
   </div>
 
+  <!-- Floating Expand Sidebar Button (Visible when sidebar collapsed) -->
+  <button class="floating-sidebar-toggle" id="floating-sidebar-toggle" onclick="toggleSidebar(true)" title="展开侧边目录 (快捷键 [ )">
+    <span>📑</span>
+    <span>展开目录</span>
+  </button>
+
   <!-- Main Wrapper -->
   <div class="main-wrapper">
     
     <!-- Left Sidebar (Desktop) -->
     <aside class="sidebar">
       <div class="sidebar-panel">
+        <div class="sidebar-header-row">
+          <div style="font-weight: 600; font-size: 13.5px; color: var(--text-primary); display: flex; align-items: center; gap: 6px;">
+            <span>📖</span>
+            <span>大纲与检索</span>
+          </div>
+          <button class="sidebar-collapse-btn" onclick="toggleSidebar(false)" title="收起侧边目录 (快捷键 [ )">
+            <span>◀ 收起</span>
+          </button>
+        </div>
         <div class="search-box">
           <span class="search-icon">🔍</span>
           <input type="text" class="search-input" id="desktop-search-input" placeholder="搜索关键词..." oninput="handleSearch(this.value)">
@@ -1153,16 +1291,13 @@
 
         <!-- Page Navigator -->
         <div class="page-nav-bar" id="page-nav-bar">
-          <button class="nav-btn" id="prev-page-btn" onclick="goToPrevPage()">
-            <span>&larr;</span>
+          <button class="nav-btn nav-btn-prev" id="prev-page-btn" onclick="goToPrevPage()">
+            <span class="nav-arrow">&larr;</span>
             <span class="nav-btn-text" id="prev-page-title">上一节</span>
-          </button>
-          <button class="nav-btn" style="flex: 0; padding: 10px 14px;" onclick="navigate('home')" title="返回目录大纲">
-            <span>📑 目录大纲</span>
           </button>
           <button class="nav-btn nav-btn-next" id="next-page-btn" onclick="goToNextPage()">
             <span class="nav-btn-text" id="next-page-title">下一节</span>
-            <span>&rarr;</span>
+            <span class="nav-arrow">&rarr;</span>
           </button>
         </div>
       </article>
@@ -1689,6 +1824,10 @@
 
     function setupKeyboard() {
       window.addEventListener('keydown', (e) => {
+        if (e.key === '[' && !['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)) {
+          e.preventDefault();
+          handleMenuToggle();
+        }
         if (e.key === 'Escape') {
           triggerPanicExit();
         }
@@ -1714,6 +1853,43 @@
     }
 
     // Mobile Drawer
+    
+    // Sidebar Collapsible Control
+    function handleMenuToggle() {
+      if (window.innerWidth <= 880) {
+        toggleDrawer(true);
+      } else {
+        toggleSidebar();
+      }
+    }
+
+    function toggleSidebar(forceOpen) {
+      const isCurrentlyCollapsed = document.body.classList.contains('sidebar-collapsed');
+      let nextCollapsed;
+      if (forceOpen === true) {
+        nextCollapsed = false;
+      } else if (forceOpen === false) {
+        nextCollapsed = true;
+      } else {
+        nextCollapsed = !isCurrentlyCollapsed;
+      }
+
+      if (nextCollapsed) {
+        document.body.classList.add('sidebar-collapsed');
+        try { localStorage.setItem('_sidebar_collapsed', 'true'); } catch(e) {}
+      } else {
+        document.body.classList.remove('sidebar-collapsed');
+        try { localStorage.setItem('_sidebar_collapsed', 'false'); } catch(e) {}
+      }
+    }
+
+    // Restore saved sidebar state
+    try {
+      if (localStorage.getItem('_sidebar_collapsed') === 'true' && window.innerWidth > 880) {
+        document.body.classList.add('sidebar-collapsed');
+      }
+    } catch(e) {}
+
     function toggleDrawer(open) {
       const drawer = document.getElementById('mobile-drawer');
       const overlay = document.getElementById('drawer-overlay');
